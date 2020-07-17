@@ -21,4 +21,4 @@ But what is a digital garden? [Joel Hooks](https://joelhooks.com/digital-garden 
 
 I could also say that Ravirer is my sense-making laboratory.  You'll be able to find here my thoughts on queer utopias and activism namely. You'll find below a more detailed list of topics as my digital garden grows.
 
-If you want to know more about me, you can jump to the /bio page or the /now page. (to be coming soon)
+If you want to know more about me, you can jump to the /bio page or the /now page (to be coming soon).
