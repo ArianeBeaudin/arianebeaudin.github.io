@@ -11,6 +11,7 @@ title: Introducing Ravirer
 > (marine) changer la direction de la route du navire   
 > (populaire) enlever quelque chose (de quelque part), s'en débarrasser  
 
+---
 
 ### Hello, my name is Ariane Beaudin and Ravirer is my digital garden .
 
