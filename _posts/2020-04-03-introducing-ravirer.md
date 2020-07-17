@@ -4,11 +4,11 @@ title: Introducing Ravirer
 ---
 
 #### ravir, verbe transitif
-> (littéraire) prendre enlever de force
+> (littéraire) prendre enlever de force \
 > (religion) transporter au ciel
 
 #### virer, verbe transitif
-> (populaire) enlever quelque chose (de quelque part), s'en débarrasser
+> (populaire) enlever quelque chose (de quelque part), s'en débarrasser \
 >  (marine) changer la direction de la route du navire.
 
 
