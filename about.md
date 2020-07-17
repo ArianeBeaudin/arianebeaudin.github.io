@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 I am a multifaceted being who especially enjoys writing and sense-making. You can head on my Right now, I'm especially interested in queer utopias and activism.You can go on my [/now page](http://ravirer.com/now)  to know what I'm currently doing. 
