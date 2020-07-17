@@ -8,8 +8,8 @@ title: Introducing Ravirer
 > (religion) transporter au ciel
 
 #### virer, verbe transitif
+> (marine) changer la direction de la route du navire   
 > (populaire) enlever quelque chose (de quelque part), s'en débarrasser  
->  (marine) changer la direction de la route du navire.
 
 
 ### Hello, my name is Ariane Beaudin and Ravirer is my digital garden .
