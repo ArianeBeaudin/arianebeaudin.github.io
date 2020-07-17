@@ -13,7 +13,7 @@ title: Introducing Ravirer
 
 ---
 
-### Hello, my name is Ariane Beaudin and Ravirer is my digital garden .
+### Hello, my name is Ariane Beaudin and Ravirer is my digital garden.
 
 But what is a digital garden? [Joel Hooks](https://joelhooks.com/digital-garden "Joel Hooks") describes it as
 
