@@ -1,6 +1,6 @@
 ---
 layout: post
-sticky: true
+sticky:true
 title: Introducing Ravirer
 ---
 
