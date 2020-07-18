@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Disrupting Rape Culture (Fanghanel, 2019)
+title: thoughts on Disrupting Rape Culture (Fanghanel, 2019)
 ---
 
 ## On kink as a war machine, and the problems of it

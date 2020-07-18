@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speculation on the impact of the loss of matriarchy
+title: speculation on the impact of the loss of matriarchy
 ---
 
 
-## And on the loss of a proper womanhood
+## and on the loss of a proper womanhood
 
 Could women have lost their womanhood of the old days because they have nothing to collectively nurture and care about anymore?
   

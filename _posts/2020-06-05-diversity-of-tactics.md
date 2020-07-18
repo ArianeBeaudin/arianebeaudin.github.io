@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diversity of tactics
+title: diversity of tactics
 ---
 
 > ''Ce n'est pas l'opinion qui change le monde, mais le désir.'' 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On mystical anarchism
+title: on mystical anarchism
 ---
 
 Yesterday's reading on mystical anarchism (Critchley, [« Mystical Anarchism](https://www.tandfonline.com/doi/abs/10.1558/crit.v10i2.272) ».) opened my eyes on many things, namely the source of the fight anarchists vs authoritarians.
