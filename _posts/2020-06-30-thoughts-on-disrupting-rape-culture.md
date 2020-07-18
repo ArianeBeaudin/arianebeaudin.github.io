@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Thoughts on __Disrupting Rape Culture__ (Fanghanel, 2019)
+title: Thoughts on Disrupting Rape Culture (Fanghanel, 2019)
 ---
 
-##On kink as a war machine, and the problems of it
+## On kink as a war machine, and the problems of it
 
 Following some interrogations I had about BDSM as a practice that could leave us closer to the emancipation from the patriarchy, I decided to look up in the academia what has already been said on the matter. I've read two chapters on this book by Fanghanel, about out to disrupt rape culture (which is, in my opinion, similar to this idea of emancipation from the patriarchy), namely the one specifically about kink and the kink-community and the other one about her overall opinion on this disruption matter.
 
