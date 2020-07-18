@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Ravirer
 sticky: true
+title: Introducing Ravirer
 ---
-
+#Introducing Ravirer
 #### **ravir**, verbe transitif
 > (littéraire) prendre enlever de force  
 > (religion) transporter au ciel
