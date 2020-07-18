@@ -1,7 +1,7 @@
 ---
 layout: post
-sticky:true
 title: Introducing Ravirer
+sticky: true
 ---
 
 #### **ravir**, verbe transitif
