@@ -3,7 +3,7 @@ layout: post
 title: Diversity of tactics
 ---
 
-> ''Ce n'est pas l'opinion qui change le monde, mais le désir'' 
+> ''Ce n'est pas l'opinion qui change le monde, mais le désir.'' 
 > -Catherine Dorion
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Diversity_of_tactics), diversity of tactics *is a phenomenon wherein a social movement makes periodic use of force for disruptive or defensive purposes, stepping beyond the limits of nonviolence, but also stopping short of total militarization. It also refers to the theory which asserts this to be the most effective strategy of civil disobedience for social change.* 
@@ -21,9 +21,9 @@ When I was thinking about that, some other questions sprung to my mind, namely :
 
  - If it isn't opinion who has the power to change the world but rather desire (like the first quote of this post suggest), then how do we cultivate that flame of desire for a better world in the people? How do we make this flame strong enough so it burns the ugly, the wrong? 
 	
-	 --> by making them become accustomed to real desire, to the real power of it? 
-	 --> by empowering them into believing that indeed desire can change the world, namely that they are strong enough to make a difference?
-	 --> also by bringing the fact that the oppressors are just humans, and therefore aren't gods, so they can be smashed out/we can stop believing in their power?
+	 --> by making them become accustomed to real desire, to the real power of it?    
+	 --> by empowering them into believing that indeed desire can change the world, namely that they are strong enough to make a difference?  
+	 --> also by bringing the fact that the oppressors are just humans, and therefore aren't gods, so they can be smashed out/we can stop believing in their power?  
  - Even if the American dream seems desire-centered, is it really? I don't think it is. Well, it doesn't try to truly fulfill the human drive towards non-material things, aka towards the being  (as in, becoming what you really want, if it is outside of the "correct and useful roles" already set by society), therefore desire-centered or not, it does not lead in the right direction.
  - On art : Visuals are great - more popular, more accessible on a day-to-day basis, more shareable - but are they powerful enough to change to the core, to spark real emotions? VS  Writing, as it allows to portray a more complex situation, and where ones necessarily identifies/is more involved with the story... but sometimes the message is not enough direct, but is it a matter of subconscious at this point? Plus the question of attention deficit in our postmodern time....
 	 
