@@ -27,5 +27,5 @@ When I was thinking about that, some other questions sprung to my mind, namely :
  - Even if the American dream seems desire-centered, is it really? I don't think it is. Well, it doesn't try to truly fulfill the human drive towards non-material things, aka towards the being  (as in, becoming what you really want, if it is outside of the "correct and useful roles" already set by society), therefore desire-centered or not, it does not lead in the right direction.
  - On art : Visuals are great - more popular, more accessible on a day-to-day basis, more shareable - but are they powerful enough to change to the core, to spark real emotions? VS  Writing, as it allows to portray a more complex situation, and where ones necessarily identifies/is more involved with the story... but sometimes the message is not enough direct, but is it a matter of subconscious at this point? Plus the question of attention deficit in our postmodern time....
 	 
-	No matter how much unanswered questions there are, I still feel like the idea of personal diversity of tactics is an interesting one. 
+No matter how much unanswered questions there are, I still feel like the idea of personal diversity of tactics is an interesting one. 
 
