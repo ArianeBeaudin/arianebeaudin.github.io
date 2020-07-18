@@ -3,7 +3,7 @@ layout: post
 title: On gender abolition and matriarchy
 ---
 
-##Changing my thoughts
+## Changing my thoughts
 
 Two books that I have been reading help me think through the gender question. One is _The Left Hand of Darkness_ by Ursula K. Le Guin and the other one is _The Double Goddess : Women Sharing Power_ by Vicki Noble. I will soon receive the book _Myths and Mysteries of Same-Sex Love_ by Christine Drowning and I hope this one too will help me shape my opinion on the matter.
 
