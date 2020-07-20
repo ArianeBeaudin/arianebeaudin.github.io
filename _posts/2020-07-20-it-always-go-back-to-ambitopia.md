@@ -32,7 +32,7 @@ But in and of itself, utopias are great and it's a shame there is not much utopi
 But maybe something from the [utopia subreddit](https://www.reddit.com/r/utopia) I was unaware of will emerge and blow my mind in a near future, who knows. In the meantime I will continue my course on utopian and dystopian literature (the guidebook of it is on the [Internet Archive](https://archive.org/details/GreatUtopianAndDystopianWorksOfLiterature)) and enjoy the fact that I haven't read all the utopian materials available on Earth.
 
 
-And just realized that I'm officially repeating myself [since 2018](https://apprendrecommedumonde.wordpress.com/), does that make me an expert on the matter?
+And just realized that I'm officially repeating myself [since 2018](https://apprendrecommedumonde.wordpress.com/2018/11/28/reflexions-sur-la-science-fiction/), does that make me an expert on the matter?
 
 
 
