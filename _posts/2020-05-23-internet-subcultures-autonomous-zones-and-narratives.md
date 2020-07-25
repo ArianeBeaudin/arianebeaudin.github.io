@@ -4,11 +4,11 @@ title: internet subcultures, autonomous zones and narratives
 ---
 
 
-We know that humans are social creatures, and they want to feel like they are part of a group. We also know that they will probably strive for status in some kind of hierarchy because it's good for self-esteem/self-actualization. But striving for power can increase violence. Nonetheless, when there is multiple ''positions of power'' available, there is less competition, so the negative feedback of this pursuit is less intense.
+We know that humans are social creatures, and that they want to feel like they are part of a group. We also know that they will probably strive for status in some kind of hierarchy because it's good for self-esteem/self-actualization. But striving for power can increase violence. Nonetheless, when there are multiple ''positions of power'' available, there is less competition, so the negative feedback of this pursuit becomes less intense.
 
 Basically anarchism proposes a decentralized system with multiple autonomous zones. And the internet already offers a multiple hierarchies framework. So what do we do about that? We could explore this in two ways :
  
- 1. How does this situation can spark the collective imagination into a possible anarchist narrative for the real world?
+ 1. How can this situation spark the collective imagination into a possible anarchist narrative for the real world?
  2. Even if internet creates many subculture and groups, how does that could translate in physical place, regarding the fact that the people in those groups are physically all over the world AND part of multiple groups at once? 
 
 I think I could summarize an answer with something like "those internet made subcultures can help the human psyche with its understanding of autonomous zone but they do not offer a real concrete ground to operate the construction of them unfortunately." I mean, I could imagine a sci-fi scenario where we all live in virtual realities, but this "virtualization of the world" can only happen when all basic needs are met, and yeah, that won't be an instant thing for a new autonomous zone. 
@@ -22,7 +22,7 @@ But, in all cases, since the world as it is right now is too hard to be apprehen
 And this lead to a few other questions :
 
  - If the "main culture" is broken into "smaller cultures", does this involve the multiplication of narrative and, if so, how do we manage to keep them coexisting? Or maybe our postmodern era characterized by its lack of significant narrative (except maybe "consume more, amass more wealth") implies that the "habit of narrative-making" is somewhat lost?
- - In the same line of thoughts, could a global revolutionary project emerge of that? Does a global revolutionary project even the way to go, or should we give up the idea of global thing now? But can we pretend giving up the global in a world where everything/everybody is connected? 
+ - In the same line of thoughts, could a global revolutionary project emerge from that? Is a global revolutionary project even the way to go, or should we give up on the idea of global thing now? But can we pretend giving up on the global in a world where everything/everybody is connected? 
 
 I feel like reading about Saul Newman's post-anarchism could help me apprehend my interrogations. But the truth is that maybe I shall write this sci-fi scenario to picture more accurately what it could mean. Mmhh. 
 
