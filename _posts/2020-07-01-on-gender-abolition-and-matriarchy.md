@@ -9,7 +9,7 @@ Two books that I have been reading help me think through the gender question. On
 
   
 
-When I had to write my text about queer feminism, I conclude it with the idea that gender abolition would solve the issues of gender inequalities. This conclusion was quite precipitated, and I kind of used it as a sortie d'urgence in my text since the real path to gender equality is a long one that cannot be summarized quickly. I was also reading text in the vibe of the _Cyborg Manifesto_, therefore I was ''in the mood for gender abolition''. But this ''mood'' was one that has been in the air for a long time, as I realized a few days ago that it has now been a year that I am somewhat questioning my gender, considering that I might fit more the non-binary label than the woman one. But the thing is, when I was writing this text, one thing I haven't took in consideration was spirituality.
+When I had to write my text about queer feminism, I conclude it with the idea that gender abolition would solve the issues of gender inequalities. This conclusion was quite precipitated, and I kind of used it as a sortie d'urgence in my text since the real path to gender equality is a long one that cannot be summarized quickly. I was also reading text in the vibe of the [_Cyborg Manifesto_](https://theanarchistlibrary.org/library/donna-harroway-a-cyborg-manifesto-1), therefore I was ''in the mood for gender abolition''. But this ''mood'' was one that has been in the air for a long time, as I realized a few days ago that it has now been a year that I am somewhat questioning my gender, considering that I might fit more the non-binary label than the woman one. But the thing is, when I was writing this text, one thing I haven't took in consideration was spirituality.
 
   
 
