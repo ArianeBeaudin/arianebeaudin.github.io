@@ -10,10 +10,10 @@ I've been following the [Zen Studies Podcast](https://zenstudiespodcast.com/) si
 
 So yeah, here I am going back to my buddhist practice, and I'm working hard on not giving up all my other intellectual pursuits just to focus on it because it is one big relief to refocus on medidation and zen in general. So, a way my brain tricked myself into not doing that is incorporating buddhism in my science-fiction writing project. We can read while my main protagonist are at the Crypt, the base of a queer secret society planning to overcome the new world dictatorship :
 
->AImarita introduced Utena as one of the main Priestix of the Crypt. They shook hand and Utena quickly left. 
->‘’I didn’t know you had religion here’’, commented Sasha afterward,
-‘’Well the Crypt was founded by Buddhist witches, but the cult is not obligatory.''
-Sasha knew that Buddhism was one of the religion of the past but didn’t know any of them survived. 
+>AImarita introduced Utena as one of the main Priestix of the Crypt. They shook hand and Utena quickly left.  
+>‘’I didn’t know you had religion here’’, commented Sasha afterward.  
+‘’Well the Crypt was founded by Buddhist witches, but the cult is not obligatory.''  
+Sasha knew that Buddhism was one of the religion of the past but didn’t know any of them survived.   
 ‘’There is dharma talks every day at eleven if you are curious to see how it looks. Nnedi always go, maybe you could accompany her.’’
 
 And since my universe is one of science-fiction where androids, cyborgs and humans coexist, I started to research about how Buddhism perceive robots and I fell upon this marvelous [text](https://jetpress.org/v23/borody.htm). And now I have no choice but to incorporate more Buddhism in my utopian studies. As I'm also reading for the first time right now _Battle Angel Alita_, I need to say that his week I especially love Japan.
