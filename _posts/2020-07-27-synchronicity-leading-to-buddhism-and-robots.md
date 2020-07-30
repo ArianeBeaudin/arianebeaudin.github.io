@@ -1,4 +1,8 @@
-#synchronicity leading to Buddhism and robots 
+---
+layout: post
+title: synchronicity leading to Buddhism and robots
+---
+
 
 I have been reading about Buddhist philosophy since high school. I need to partly thank Buddhism for escaping the last dark period of my life. But I'm bad at following traditions, and I often ''forget about Buddhism'' even though I'm convinced many of the core principles of Buddhism have sink in forever in me. 
 

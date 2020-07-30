@@ -38,3 +38,12 @@ Even if identity politics aren't unanimously considered pertinent of powerful en
 
 So I just let the seed sink in : I am looking forward deepening this idea, but for now I am very excited to continue to explore Riane Eisler's theory. I borrowed her *The Real Wealth of Nations : Creating a Caring Economics*, which sounds capitalistic, but *The Chalice and the Blade* showed me anarchy occupies a place in her heart, therefore I should probably not worry too much. 
 
+**EDIT 30/07/2020**: I have found in the *The Real Wealth of Nations* a quote that summarize well the concepts of the domination system and partnership system :
+
+> In the *domination system*, there are only two alternatives for relations : dominating or being dominated. Those on top control those below them  — be it in families, workplace, or society at large. Economic policies and practices in this system are designed to benefit those on top at the expense of those on the bottom. Trust is scarce and tension is high, as the whole system is largely held together by fear and force.  
+> 
+>To maintain rankings of domination, caring and empathy have to be suppressed and devalued, beginning in families and from there to economics and politics. This is why one of the foundations for a caring econimics consists of beliefs and institutions that orient more to the partnership system.  
+>
+>The *partnership system* supports mutualy respectufl and caring relations. There are still hierarchies, as there must be to get things done. But in these hierarchies, which I call *hierarchies of actualization* rather than *hierarchies of domination*, accoutability and respect flow both ways rather than just from the bottom up, and social end economic structures are set up so  that there is input from all levels. Leaders and managers facilitate, inspire, and empower rather than control and disempower. Economic policies and practices in this system are designed to support our basic survival needs and ours needs for community, creativity, meaning, and caring  — in other words, the realization of our highest human potentials.
+
+This idea of *hierarchies of actualization* echoes with some of the stuff I was saying in [Internet, subcultures, autonomous zones and narratives](https://ravirer.com/2020/05/23/internet-subcultures-autonomous-zones-and-narratives/).
