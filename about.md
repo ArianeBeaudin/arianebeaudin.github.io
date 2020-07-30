@@ -5,9 +5,9 @@ title: about
 
 I am a multifaceted being who especially enjoys writing and sense-making. You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
 
-In those recent years, I was busy doing a Technique intensive en informatique at the Cégep du Vieux-Montréal, from which I graduated in June 2020. I was also involved in the organization of student strikes for the climate and other social and ecological initiatives in the Cégep du Vieux-Montréal.
+In those recent years, I was busy doing a Technique intensive en informatique at the Cégep du Vieux-Montréal, from which I graduated in June 2020. I was also involved in the organization of student strikes for the climate and other social and ecological initiatives in the Cégep du Vieux-Montréal. Before that, I completed a DEC in Histoire et civilisations at the same cegep (2015-2017), and I studied in Relations internationales et droit international at l'Université du Québec à Montréal for a year (2018).
 
-On the writing side, I used to rant (constructively) about education on [Apprendre comme du monde](wwww.apprendrecommedumonde.wordpress.com/). And in 2020, I became a contributor and corrector for the journal  [L'Heuristique](http://lheuristique.ca/author.php?id=541). I also write poetry and fiction, and I will hopefully soon create a little space on Ravirer for that too.
+On the writing side, I used to rant (constructively) about education on [Apprendre comme du monde](wwww.apprendrecommedumonde.wordpress.com/). And in 2020, I became for a short period of time a contributor and corrector for the journal  [L'Heuristique](http://lheuristique.ca/author.php?id=541). I also write poetry and fiction, and I will hopefully soon create a little space on Ravirer for that too.
 
 And for the miscellaneous, I was a guest on the  [Radio du Vieux podcast](https://www.youtube.com/channel/UCa9WT6fEy-qMmn9fk4SN0ww) twice (where I talked about the environmental student movement) and I also did the animation for an [electoral debate](https://www.youtube.com/watch?v=XA-CnDELIko) in the circumscription of Laurier-Sainte-Marie in 2019.
 
