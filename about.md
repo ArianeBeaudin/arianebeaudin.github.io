@@ -12,7 +12,7 @@ On the writing side, I used to rant (constructively) about education on [Apprend
 And for the miscellaneous, I was a guest on the  [Radio du Vieux podcast](https://www.youtube.com/channel/UCa9WT6fEy-qMmn9fk4SN0ww) twice (where I talked about the environmental student movement) and I also did the animation for an [electoral debate](https://www.youtube.com/watch?v=XA-CnDELIko) in the circumscription of Laurier-Sainte-Marie in 2019.
 
 
-And for those wondering about what I’ve been reading, I’m putting here two links : one to a  [list of all the books I’ve read since 2018](https://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbhhttps://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbh) and a second to my [Zotero library](https://www.zotero.org/ariane.beaudin/library) where I save my more academic materials.
+And for those wondering about what I’ve been reading, I’m putting here two links : one to a  [list of all the books I’ve read since 2018](https://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbhhttps://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbh) and a second to my [Zotero library](https://www.zotero.org/ariane.beaudin/library) where I save my more academic materials. I also compiled some of my favorite books over [there](http://ravirer.com/collections/reading_essentials/).
 
 Profesionally speaking, I can do : 
 * Correction of text (in French)
