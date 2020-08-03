@@ -4,6 +4,7 @@ title: my favorite books
 ---
 
 ## Mental health
+---
 
 ![Flow](https://i.harperapps.com/covers/9780061339202/y648.jpg)
 
@@ -13,6 +14,7 @@ title: my favorite books
 
 
 ## Spirituality  
+---
 
 ![La danza de la realidad](https://www.siruela.com/libros/alta/9788498410112_L38_04_x.jpg)
 ![Ranger, une pratique zen](http://www.editions-picquier.com/wp-content/uploads/2018/01/Ranger-une_pratique_Zen.jpg)
@@ -20,6 +22,8 @@ title: my favorite books
 
 
 ## Activism
+---
+
 
 ![Webs of Power: Notes from the Global Uprising](https://m.media-amazon.com/images/I/41TdOZCaTML.jpg)
 
@@ -31,6 +35,7 @@ title: my favorite books
 
 
 ## Apprehending the world
+---
 
 ![21 lessons for the 21st century](https://www.ynharari.com/wp-content/uploads/2018/02/21-e1522162241675.jpg)
 
@@ -40,8 +45,9 @@ title: my favorite books
 
 
 ## Fiction
+---
 
--![Who Fears Death](https://images-na.ssl-images-amazon.com/images/I/81SkRS2Mi3L.jpg) 
+![Who Fears Death](https://images-na.ssl-images-amazon.com/images/I/81SkRS2Mi3L.jpg) 
 
 ![La vie littéraire](https://www.labibleurbaine.com/wp-content/uploads/2014/08/Critique-roman-la-vie-litt%C3%A9raire-Mathieu-Arsenault-Le-Quartanier-Bible-urbaine-e1409255935627.jpg)
 
@@ -50,6 +56,7 @@ title: my favorite books
 
 
 ## Poetry
+---
 
 ![Les crimes du hasard](https://cdn1.booknode.com/book_cover/3918/full/les-crimes-du-hasard-3917972.jpg)
 
