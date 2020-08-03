@@ -5,5 +5,5 @@ title: poetry
 
 I write a lot of poetry, but I rarely organize my poems into something coherent. But here's some of my attempts in doing so :
 
-- [Songe de plusieurs nuits d'été](songe-de-plusieurs-nuits-d-ete.pdf) (2018, 78p.)
-- [HIER DEMAIN](hier_demain.pdf) (2020, 38p.)
+- <a href="songe-de-plusieurs-nuits-d-ete.pdf" target = "_blank"> Songe de plusieurs nuits d'été </a> (2018, 78p.)
+- <a href="hier_demain.pdf" target = "_blank"> HIER DEMAIN</a> (2020, 38p.)
