@@ -6,7 +6,7 @@ title: hyperpop and glitch art
 > The role of the artist is to make the revolution irresistible.   
 > -Toni Cade Bambara
 
-It is no secret that current trends in fashion, music, cinema, etc. are usually heavily influenced by past periods or aesthetics. As I was listening to Jessie Ware's *What's Your Pleasure?* new album, feeling like this sound was directly sourced from the 80s, I couldn't help but be _pensive_ about this. I couldn't help but to try to make some parallels between old and new art phenomenons that I very enjoy. 
+It is no secret that current trends in fashion, music, cinema, etc. are usually heavily influenced by past periods or aesthetics. As I was listening to Jessie Ware's *What's Your Pleasure?* new album, feeling like this sound was directly sourced from the 80s, I couldn't help but to try to make some parallels between old and new art phenomenons that I enjoy. 
 
 
 ## Is hyperpop the new rock 'n' roll?
