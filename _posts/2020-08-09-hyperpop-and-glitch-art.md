@@ -3,13 +3,13 @@ layout: post
 title: hyperpop and glitch art
 ---
 
-> The role of the artist is to make the revolution irresistible. 
+> The role of the artist is to make the revolution irresistible.   
 > -Toni Cade Bambara
 
 It is no secret that current trends in fashion, music, cinema, etc. are usually heavily influenced by past periods or aesthetics. As I was listening to Jessie Ware's *What's Your Pleasure?* new album, feeling like this sound was directly sourced from the 80s, I couldn't help but be _pensive_ about this. I couldn't help but to try to make some parallels between old and new art phenomenons that I very enjoy. 
 
 
-## Is hyperpop the new rock'n'roll?
+## Is hyperpop the new rock 'n' roll?
 
 Hyperpop is quite new, like it doesn't even have a Wikipedia page now as I'm writing this. But cultural magazines and websites are already on it, trying to define it and to offer some [guide to navigate it](https://wptsradio.org/intro-to-hyperpop/), some wondering if [this new genre is the future of music](https://www.dailyemerald.com/arts-culture/is-hyper-pop-the-future-of-music/article_7f460e0e-3039-11ea-a922-7727ccb8a1bd.html), and Spotify  has already an official [hyperpop playlist](https://open.spotify.com/playlist/7DrJ92Lc9UaVB1rKM2UGsg).  
 
