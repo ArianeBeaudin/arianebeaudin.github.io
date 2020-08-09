@@ -5,7 +5,7 @@ title: now
 
 
 
-I am studying in Software engineering at l’École des technologies supérieures de Montréal.
+I am studying in Software engineering at l’École de technologie supérieure de Montréal.
 
 I am currently unemployed as I am working on multiple personal projects, namely a sci-fi piece whose title is for now *Do Androids Dream of Social Justice*?
 
