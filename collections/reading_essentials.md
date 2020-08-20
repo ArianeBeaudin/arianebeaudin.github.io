@@ -17,8 +17,12 @@ title: my favorite books
 ---
 
 ![La danza de la realidad](https://www.siruela.com/libros/alta/9788498410112_L38_04_x.jpg)
+
 ![Ranger, une pratique zen](http://www.editions-picquier.com/wp-content/uploads/2018/01/Ranger-une_pratique_Zen.jpg)
-![Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy](https://images-na.ssl-images-amazon.com/images/I/71KlvcarFPL.jpg)![Healing and Empowering the Feminine: A Labyrinth Journey](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347700569l/1319170.jpg)
+
+![Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy](https://images-na.ssl-images-amazon.com/images/I/71KlvcarFPL.jpg)!
+
+[Healing and Empowering the Feminine: A Labyrinth Journey](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347700569l/1319170.jpg)
 
 
 ## Activism
@@ -27,11 +31,14 @@ title: my favorite books
 
 ![Webs of Power: Notes from the Global Uprising](https://m.media-amazon.com/images/I/41TdOZCaTML.jpg)
 
-![This Machine Kills Secrets de Andy Green](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1421/9780142180495.jpg)
+![This Machine Kills Secrets](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1421/9780142180495.jpg)
 
 ![Socialism... Seriously](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436233077l/25330069._SX318_.jpg)
+
 ![Post-scarcity anarchism](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1203209745l/2707680.jpg)
+
 ![Pedagogy of the oppressed](https://www.penguin.co.uk/content/dam/prh/books/225/22583/9780241301111.jpg)
+
 
 
 ## Apprehending the world
@@ -62,3 +69,11 @@ title: my favorite books
 
 ![L'homme rapaillé](https://images-na.ssl-images-amazon.com/images/I/417ZKVZ3YTL._SX210_.jpg)
 
+## Miscellaneous
+---
+
+![Your Money or Your Life](https://images-na.ssl-images-amazon.com/images/I/61tAWrb9HQL.jpg)
+
+![The Ethical Slut](https://images-na.ssl-images-amazon.com/images/I/51UaLgQ-6WL.jpg)
+
+![The Art of Gathering](https://images4.penguinrandomhouse.com/cover/9781594634925)
