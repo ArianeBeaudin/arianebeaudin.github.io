@@ -20,9 +20,9 @@ title: my favorite books
 
 ![Ranger, une pratique zen](http://www.editions-picquier.com/wp-content/uploads/2018/01/Ranger-une_pratique_Zen.jpg)
 
-![Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy](https://images-na.ssl-images-amazon.com/images/I/71KlvcarFPL.jpg)!
+![Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy](https://images-na.ssl-images-amazon.com/images/I/71KlvcarFPL.jpg)
 
-[Healing and Empowering the Feminine: A Labyrinth Journey](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347700569l/1319170.jpg)
+![Healing and Empowering the Feminine: A Labyrinth Journey](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347700569l/1319170.jpg)
 
 
 ## Activism
