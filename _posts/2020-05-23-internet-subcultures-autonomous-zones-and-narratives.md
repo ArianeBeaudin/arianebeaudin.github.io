@@ -26,4 +26,7 @@ And this lead to a few other questions :
 
 I feel like reading about Saul Newman's post-anarchism could help me apprehend my interrogations. But the truth is that maybe I shall write this sci-fi scenario to picture more accurately what it could mean. Mmhh. 
 
+**EDIT 29/08/2020** : I found a good description to deepen this idea of hierarchy mentionned above in Riane Eisler's *Tomorrow's Children*, which says that : 
+> There is a distinction between *hierarchies of domination* and *hierarchies of actualization*. Hierarchies of domination are imposed and maintained by fear. They are held in place by the power that is idealized, and even sanctified, in societies that orient primarly to the dominator model : the power to inflict pain, to hurt and kill. By contrast, hierarchies of actualization are primarly based not on power *over*, but on power *to* (creative power, the power to help and to nurture others) as well as power *with* (the collective power to accomplish things together, as in what is today called teamwork). In hierarchies of actualization, accountability flows not only from the bottom up but also from the top down. That is, acountability flows in both directions.
+
 
