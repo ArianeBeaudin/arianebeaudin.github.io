@@ -5,7 +5,7 @@ title: new academic intentions
 
 I know, in life, you don't have to justify yourself to others. But I have this habit of writing blog posts to justify what I decide to study.
 
-[I did it on September 23th of 2018](https://apprendrecommedumonde.wordpress.com/2018/09/23/retourner-a-lecole-mais-pas-a-luniversite/). I was back then waiting to start my Technique intensive en informatique at the Cégep du Vieux-Montréal, from which I graduated last June. I explained in my old blog post why I was starting this program with 4 reasons :
+[I did it on September 23th of 2018](https://apprendrecommedumonde.wordpress.com/2018/09/23/retourner-a-lecole-mais-pas-a-luniversite/). I was back then waiting to start my Technique intensive en informatique at the Cégep du Vieux-Montréal, from which I graduated last June. I explained in my old blog post why I was starting this program for 4 reasons :
 
  1. Because my natural strengths were the one needed to succeed in computer science, namely my logical mind and my creativity. I also hoped that my communication skills would help me stand out from the crowd. I would say that my assumptions were right.
  2. Because I wanted to be useful. In 2018, I had no practical skills whatsoever (living the intellectual and artistic life more than anything), and I had just given up on my illusion that to study in International relations would allow me to change the world. I'm about to start an internship in a nonprofit organization and I hope it will help me feel useful like I wanted to be. 
@@ -16,7 +16,7 @@ Looking back, I am very grateful to have started and completed this program. In 
 
 What wasn't written in the post, but that I used to tell myself and my friends often, is that I was studying in computer science to get a "well-paid job" in order to afterward be able to study in whatever field I want for fun without getting in debts. And that was a core motivator. But I almost fail in my own trap. 
 
-Even though "I am good at computer science" and that the field is actually challenging in some really interesting ways, this is not my calling. But I almost changed my plans to try to train to become an engineer (probably out of some ego aspirations). Like I was technically a student of the Bachelor degree in Software engeneering of l'École des technologies supérieures this fall, but I cancelled my classes last minute. 
+Even though "I am good at computer science" and that the field is actually challenging in some really interesting ways, this is not my calling. But I almost changed my plans to try to train to become an engineer (probably out of some ego aspirations). Like I was technically a student of the bachelor degree in Software engeneering of l'École des technologies supérieures this fall, but I cancelled my classes last minute. 
 
 And so here I am writing this text about my new academic intentions. Yesterday, I paid the administration fees of my dear Université du Québec à Montréal (that I honestly missed despite [my harsh critics of my experience there](https://apprendrecommedumonde.wordpress.com/2018/07/07/pourquoi-jai-quitte-luniversite-car-les-etudes-ne-devraient-pas-etre-absurdes/)), hoping to start a new certificate this winter. 
 
@@ -24,7 +24,7 @@ Like mentioned in my [exploration of critical pedagogy](https://ravirer.com/2020
 
 And now let me justify myself, for posterity. 
 
-I kind of always said that I wanted to be a cegep or university teacher, because I like to teach but I'm not especially fond of children. I have been doing some tutoring in French and literature since 2016 and enjoyed every minute of it. As a student, I also always was the one helping my comrades who had trouble understanding what was seen in class. When I quit university in 2018, my first reflex was to create a website called [Apprendre comme du monde](https://apprendrecommedumonde.wordpress.com/) because I couldn't bear the idea of stopping to learn and wanted to investigate how to "fix the learning process" since I realized that, in some way, we weren't really learning at university. 
+I kind of always said that I wanted to be a cegep or university teacher, because I like to teach but I'm not especially fond of children. I have been doing some tutoring in French and literature since 2016 and I enjoyed every minute of it. As a student, I also always was the one helping my comrades who had trouble understanding what was seen in class. When I quit university in 2018, my first reflex was to create a website called [Apprendre comme du monde](https://apprendrecommedumonde.wordpress.com/) because I couldn't bear the idea of stopping to learn and wanted to investigate how to "fix the learning process" since I realized that, in some way, we weren't really learning at university. 
 
 So that last paragraph is there to prove to myself that I am genuinely interested in education.  Because the running gag around my person is that I'm always "changing career path". Even if, deep down, I know there is nothing wrong with that in the first place, I still feel the need to explain that I am not studying around "by pure confusion about what I want to do in life" even if it might look like this. So what about this new path I'm taking?
 
