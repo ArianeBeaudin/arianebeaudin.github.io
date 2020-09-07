@@ -1,4 +1,11 @@
- <span style="display:block;text-align:center;"><img src="../../visuals/long-long-x64-bit.jpeg" alt="long long x64 bit"> 
+---
+layout: post
+title: GLITCH ART SERIE : long long x64 bit
+---
+
+
+ <span style="display:block;text-align:center;">
+ <img src="../../visuals/long-long-x64-bit.jpeg" alt="long long x64 bit"> 
 
 _long long x64 bit_ - September 2020
 
