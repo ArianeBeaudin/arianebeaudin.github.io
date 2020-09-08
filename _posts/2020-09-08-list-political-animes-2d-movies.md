@@ -17,6 +17,7 @@ Just a little list of anime and movies which marked me with their political insi
  
  4. *Rio 2096* (2013), a science-fiction Brazilian movie  
 On the cyclical aspect of fighting against oppression (as in, it is a fight that always change but never ends).  Also, it serves as a good reminder for activists. Despite the impression that "humanity is actually slacking" in its pursuit of social changes (and so, in such a critical time), it is important to remind ourselves that, at all time in history, there were groups fighting against the oppressive forces (never did humanity just complied as a whole to them), and the fact that humanity now "looks like it is slacking" is not a defeat of morality but the fruit of this game where the oppressors had all the time in the world to think about how to weaken the oppressed and create the conditions for this weakening state to remain constant.  
+
  5. Hayako Miyazaki's work in general  
 There is this [nice marxist analysis of Miyazaki's work](https://www.youtube.com/watch?v=UMXN6B-tqZM&t=1471s&ab_channel=Zeria) to which I would like to come back to.
 
