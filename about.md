@@ -3,7 +3,9 @@ layout: page
 title: about
 ---
 
-I am a multifaceted being who especially enjoys writing and sense-making. You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
+Hello, my name is Ariane Beaudin and I am a non-binary artist, intellectual and activist. My pronouns are elle/she/they. I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, science-fiction and education.
+
+You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
 
 In those recent years, I was busy doing a Technique intensive en informatique at the Cégep du Vieux-Montréal, from which I graduated in June 2020. I was also involved in the organization of student strikes for the climate and other social and ecological initiatives in the Cégep du Vieux-Montréal. Before that, I completed a DEC in Histoire et civilisations at the same cegep (2015-2017), and I studied in Relations internationales et droit international at l'Université du Québec à Montréal for a year (2018).
 
