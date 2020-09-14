@@ -15,7 +15,7 @@ And for the miscellaneous, I was a guest on the  [Radio du Vieux podcast](https:
 And for those wondering about what I’ve been reading, I’m putting here two links : one to a  [list of all the books I’ve read since 2018](https://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbhhttps://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbh) and a second to my [Zotero library](https://www.zotero.org/ariane.beaudin/library) where I save my more academic materials. I also compiled some of my favorite books over [there](http://ravirer.com/collections/reading_essentials/).
 
 Profesionally speaking, I can do : 
-* Correction of text (in French)
+* Correction of texts (in French)
 * Writing of all sorts (even personalized erotic stories) 
 * Tarot readings 
 * Some programming, I am so far a jack of all trades (but I’m good at managing teams)
