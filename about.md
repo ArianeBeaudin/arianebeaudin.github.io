@@ -3,7 +3,9 @@ layout: page
 title: about
 ---
 
-Hello, my name is Ariane Beaudin and I am a non-binary artist, intellectual and activist. My pronouns are elle/she/they. I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, science-fiction and education.
+Hello, my name is Ariane Beaudin and I am a non-binary artist, intellectual and activist. My pronouns are elle/she/they.  
+
+I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, science-fiction and education.
 
 You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
 
