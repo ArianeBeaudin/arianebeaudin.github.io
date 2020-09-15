@@ -1,6 +1,6 @@
 # Setup
 title:               Ravirer
-tagline:             'A digital garden about everything disrupting status quo'
+tagline:             'A digital garden about disrupting status quo'
 description:         "One's attempt at sense-making"
 url:                 ''
 baseurl:             ''
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ariane Beaudin
+  url:               https://www.instagram.com/ariane.beaudin/
+  email:             ariane.beaudin@hotmail.com
 
 # Gems
 plugins:
