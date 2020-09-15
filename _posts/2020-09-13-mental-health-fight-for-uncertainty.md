@@ -39,7 +39,7 @@ But he doesn't leave the reader on such a disappointing note. With a zen approac
 > articulated in the Heart Sutra: “Form is emptiness; emptiness is
 > form.”
 
-He introduces the concept of an "apophatic futurism", following the spirit of the *satori* of the Buddist and the "radical hope" of philosopher Jonathan Lear.
+He introduces the concept of an "apophatic futurism", following the spirit of the *satori* of Buddists and the "radical hope" of philosopher Jonathan Lear.
 
 > Apophatic futurism recognizes that we cannot know how climate change
 > and ecological catastrophe are going to transform our world, how human
