@@ -1,6 +1,7 @@
 ---
 layout: post
 title: new academic intentions
+description: Description of my unconventional academic path and its new tournant in education after a detour in computer science.
 ---
 
 I know, in life, you don't have to justify yourself to others. But I have this habit of writing blog posts to justify what I decide to study.

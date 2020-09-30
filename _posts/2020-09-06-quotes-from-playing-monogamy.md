@@ -1,6 +1,7 @@
 ---
 layout: post
 title: quotes from Playing Monogamy by Simon(e) van Saarloos
+description: Quotes from Playing Monogamy by Simon(e) van Saarloos on the subject of non-monogamy, heteronormativity, alienation and capitalism.
 ---
 
 <div style="font-style:italic;">

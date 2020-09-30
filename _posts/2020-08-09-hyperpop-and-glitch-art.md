@@ -1,6 +1,7 @@
 ---
 layout: post
 title: hyperpop and glitch art
+description: Essay where I wonder if hyperpop is the new rock 'n' roll and glitch art the new pop art.
 ---
 
 > The role of the artist is to make the revolution irresistible.   

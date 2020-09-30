@@ -1,10 +1,11 @@
 ---
 layout: post
 title: my little list of political anime and 2D movies
+description : A list of anime and 2D movies with political insights and messages of hope to help apprehend the world.
 ---
 
 
-Just a little list of anime and movies which marked me with their political insights and messagex of hope.
+Just a little list of anime and movies which marked me with their political insights and messages of hope.
 
  1. *Belladona of Sadness* (1973), a Japanese movie inspired by the French novel _La Sorcière_ by Jules Michelet (1892)  
  This movie illustrates well a fight that is way too often invisible, this fight being the one against patriarchy.  

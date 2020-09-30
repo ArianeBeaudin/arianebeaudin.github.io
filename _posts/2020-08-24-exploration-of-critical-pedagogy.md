@@ -1,6 +1,7 @@
 ---
 layout: post
 title: exploration of critical pedagogy
+description: Presentation of differents aspects of critical pedagogy which need to be explored more deeply.
 ---
 
 You can find in my [favorite books](https://ravirer.com/collections/reading_essentials/) *Pedagogy of the Oppressed* by Paolo Freire, but I have only recently discovered his work. Nonetheless, I have been interested in education for a while now (I used to talk about it on [Appprendre comme du monde](http://www.apprendrecommedumonde.wordpress.com)), and this book sparked my interest again, and it did so toward a more specific field : critical pedagogy.
