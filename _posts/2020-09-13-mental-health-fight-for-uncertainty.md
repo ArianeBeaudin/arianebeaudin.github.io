@@ -1,6 +1,7 @@
 ---
 layout: post
 title: mental health and how to fight for uncertainty
+description: Thoughts on the text Beginning with the End by Roy Scranton and his concept of apophatic futurism in the lens of mental health and activism.
 ---
 
 Lately I've been thinking about making some kind of "Emotional Intelligence Toolkit for Activists". This toolkit would include tips on 
