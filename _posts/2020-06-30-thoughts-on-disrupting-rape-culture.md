@@ -1,6 +1,7 @@
 ---
 layout: post
 title: thoughts on Disrupting Rape Culture (Fanghanel, 2019)
+description: Critical reflexions on BDSM as a tool to disrupt rape culture (and the problems of it). 
 ---
 
 ## On kink as a war machine, and the problems of it

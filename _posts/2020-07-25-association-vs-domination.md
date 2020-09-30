@@ -1,6 +1,7 @@
 ---
 layout: post
 title: association vs domination
+description: Highlights of Riane Eisler's framework of the domination model and the partnership model.
 ---
 
 ## a new framework

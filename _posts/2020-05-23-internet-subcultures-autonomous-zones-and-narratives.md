@@ -1,6 +1,7 @@
 ---
 layout: post
 title: internet subcultures, autonomous zones and narratives
+description: On internet subcultures and their implications with anarchist narratives.
 ---
 
 

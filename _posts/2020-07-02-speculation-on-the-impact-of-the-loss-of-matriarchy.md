@@ -1,6 +1,7 @@
 ---
 layout: post
 title: speculation on the impact of the loss of matriarchy
+description: Reflexions on the weakened by patriarchy sisterhood.
 ---
 
 

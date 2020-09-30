@@ -1,6 +1,7 @@
 ---
 layout: post
 title: synchronicity leading to Buddhism and robots
+description: On Buddhism as an explanation for the different views and technological practices accross the West and the East.
 ---
 
 

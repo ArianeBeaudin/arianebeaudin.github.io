@@ -1,6 +1,7 @@
 ---
 layout: post
 title: on mystical anarchism
+description: Mystical anarchism as a way to resolve the conflict between humans' good or evil nature and how it can help build communities today.
 ---
 
 Yesterday's reading on mystical anarchism (Critchley, [« Mystical Anarchism](https://www.tandfonline.com/doi/abs/10.1558/crit.v10i2.272) ».) opened my eyes on many things, namely the source of the fight between anarchists and authoritarians.

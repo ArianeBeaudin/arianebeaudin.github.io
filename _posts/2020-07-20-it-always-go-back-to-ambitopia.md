@@ -1,6 +1,7 @@
 ---
 layout: post
 title: it always go back to ambitopia
+description: Essay against dystopia and for utopia (or ambitopia) in the lens of capitalist realism.
 ---
 
 what I'm covering bellow

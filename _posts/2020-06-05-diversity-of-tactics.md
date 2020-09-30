@@ -1,6 +1,7 @@
 ---
 layout: post
 title: diversity of tactics
+description : Re-appropriation of the concept of diversity of tactics to bring it to the personal level (how one can use a diversity of tactics to embody their values).
 ---
 
 > ''Ce n'est pas l'opinion qui change le monde, mais le désir.'' 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: on gender abolition and matriarchy
+description: Confused thoughts on gender abolition, womanhood and matriarchy. 
 ---
 
 ## changing my thoughts
