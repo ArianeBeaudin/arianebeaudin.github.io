@@ -69,3 +69,8 @@ So I have this "funny story" I'm telling myself now, which goes in the vibe of w
 Feel free to steal that little story. Otherwise, to study zen might be a good spiritual alternative to remain sane. And more seriously, the subject deserve much more thorough analysis and I shall come back to it.
 
  In the meantime, let's hold space for our collective grief.
+ 
+ 
+ **EDIT 06/10/2020** : I've just read the [speech of Russell Means](https://www.filmsforaction.org/news/revolution-and-american-indians-marxism-is-as-alien-to-my-culture-as-capitalism/), member of the Oglala Lakota tribe,  from July 1980 and this passage offers a future worth meditating about.  
+ 
+> American Indians have been trying to explain this to Europeans for centuries. But, as I said earlier, Europeans have proven themselves unable to hear. The natural order will win out, and the offenders will die out, the way deer die when they offend the harmony by over-populating a given region. It's only a matter of time until what Europeans call "a major catastrophe of global proportions" will occur. It is the role of American Indian peoples, the role of all natural beings, to survive. A part of our survival is to resist. We resist not to overthrow a government or to take political power, but because it is natural to resist extermination, to survive. We don't want power over white institutions; we want white institutions to disappear. That's revolution. 
