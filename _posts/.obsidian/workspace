@@ -1,0 +1,76 @@
+{
+  "main": {
+    "id": "b441a337f090509d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f906d47a0dd429b5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53db60403746ab94",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8cf0dd6fe1460a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d4e7a25d8c5553",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8822fc08eca435f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83b2dd968bbd1ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e451c84da253f3ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa30ba4948905867",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-05-05-on-mystical-anarchism.md"
+  ]
+}
