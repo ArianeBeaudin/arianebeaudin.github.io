@@ -5,24 +5,42 @@ title: about
 
 Hello, my name is Ariane Beaudin and I am a non-binary artist, intellectual and activist. My pronouns are they/she.  
 
-I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, science-fiction and education.
+I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, science-fiction, spirituality and education.
 
 You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
 
-Otherwise, in those recent years, I was busy doing a Technique intensive en informatique at the Cégep du Vieux-Montréal, from which I graduated in June 2020. I was also involved in the organization of student strikes for the climate and other social and ecological initiatives in the Cégep du Vieux-Montréal. Before that, I completed a DEC in Histoire et civilisations at the same cegep (2015-2017), and I studied in Relations internationales et droit international at l'Université du Québec à Montréal for a year (2018).
+Please forgive me in advance for the abundance of French here, but I've been doing most of my work and engagment in francophone communities so far. 
 
-On the writing side, I used to rant (constructively) about education on [Apprendre comme du monde](wwww.apprendrecommedumonde.wordpress.com/). And in 2020, I became for a short period of time a contributor and corrector for the journal  [L'Heuristique](http://lheuristique.ca/author.php?id=541). I also write poetry and fiction, and I will hopefully soon create a little space on Ravirer for that too (update : some of my poetry can now be found under [/poetry](http://ravirer.com/poetry)).
+Otherwise, in those recent years, I completed a Technique intensive en informatique at the Cégep du Vieux-Montréal (2019-2020). Before that, I completed a DEC in Histoire et civilisations at the same cegep (2015-2017), and I studied in Relations internationales et droit international at l'Université du Québec à Montréal for a year (2018). My university experience disappointed me a lot back then, and that led me to drop out and create a blog named [Apprendre comme du monde](http://apprendrecommedumonde.wordpress.com) where I explored self-directed learning.  I also got involved in the organization of student strikes for the climate and other social and ecological initiatives in the Cégep du Vieux-Montréal while I was studying in computer science. 
 
-And for the miscellaneous, I was a guest on the  [Radio du Vieux podcast](https://www.youtube.com/channel/UCa9WT6fEy-qMmn9fk4SN0ww) twice (where I talked about the environmental student movement) and I also did the animation for an [electoral debate](https://www.youtube.com/watch?v=XA-CnDELIko) in the circumscription of Laurier-Sainte-Marie in 2019.
-
-
-And for those wondering about what I’ve been reading, I’m putting here two links : one to a  [list of all the books I’ve read since 2018](https://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbhhttps://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbh) and a second to my [Zotero library](https://www.zotero.org/ariane.beaudin/library) where I save my more academic materials. I also compiled some of my favorite books over [there](http://ravirer.com/collections/reading_essentials/).
+Or maybe to get a better sense of who I am it could be interesting for you to take a look at this [list of all the books I've read since 2018](https://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbhhttps://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbh), a list that I update regularly. I also have my [Zotero library]((https://www.zotero.org/ariane.beaudin/library)) public, which is where I store the academic litterature I consult for my personnal research. I also compiled my favorite books in this [post](http://ravirer.com/collections/reading_essentials/).  
 
 Profesionally speaking, I can do : 
-* Correction of texts (in French)
+* Tutoring, with a speciality in perfectionnement du français
+* Correction and edition of texts  (in French)
 * Writing of all sorts (even personalized erotic stories) 
-* Tarot readings 
-* Some programming, I am so far a jack of all trades (but I’m good at managing teams)
+* Tarot reading/counseling 
+* Coding and database work, I especially enjoy Python, Neo4j and everything Linux based
 
 If you want to know more about me, hire me or collaborate with me, you can send an email at ariane.beaudin@hotmail.com. 
+
+And I'll leave you on this wannabe portfolio of mine. Au plaisir! 
+
+Published work
+[_Pour une littérature ambitopique_](http://lheuristique.ca/article.php?id=525), mars 2020, L'Heuristique.
+_Vers un féminisme queer_, AGEnda 2019-2020 de l'AGECVM.
+_Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du sexe_, AGEnda 2019-2020 de l'AGECVM.
+
+Podcasts
+[_Le comité Envieuxronnement et les grèves étudiantes pour le climat_](https://www.youtube.com/watch?v=iYnTy2MnEFY&ab_channel=RadioDuVieux), novembre 2019, Radio du Vieux.
+[_Changements individuels versus changements systémiques et éco-anxiété_](https://www.youtube.com/watch?v=ZFoMGDO0lLo&ab_channel=RadioDuVieux), décembre 2019, Radio du Vieux. 
+
+Others things/events worth mentionning
+Panéliste, Café citoyen du Cégep du Vieux Montréal : Environnement = engagements, septembre 2019. 
+Animation, [débat électoral](https://www.youtube.com/watch?v=XA-CnDELIko) de la circonscription de Laurier-Sainte-Marie, octobre 2019.
+Récipiendaire de la [Médaille du lieutenant-gouverneur à la jeunesse](http://www.cvm.qc.ca/membrespersonnel/pages/index.aspx?idActualite=4133), 2019.
+
+
+
+
 
