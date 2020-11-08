@@ -26,18 +26,18 @@ If you want to know more about me, hire me or collaborate with me, you can send 
 
 And I'll leave you on this wannabe portfolio of mine. Au plaisir! 
 
-*Published work*  
+**Published work**  
 [_Pour une littérature ambitopique_](http://lheuristique.ca/article.php?id=525), mars 2020, L'Heuristique.  
 _Vers un féminisme queer_, AGEnda 2019-2020 de l'AGECVM.  
 _Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du sexe_, AGEnda 2019-2020 de l'AGECVM.  
 
 
-*Podcasts*  
+**Podcasts**  
 [_Le comité Envieuxronnement et les grèves étudiantes pour le climat_](https://www.youtube.com/watch?v=iYnTy2MnEFY&ab_channel=RadioDuVieux), novembre 2019, Radio du Vieux.  
 [_Changements individuels versus changements systémiques et éco-anxiété_](https://www.youtube.com/watch?v=ZFoMGDO0lLo&ab_channel=RadioDuVieux), décembre 2019, Radio du Vieux.   
 
 
-*Others things/events worth mentionning*  
+**Others things/events worth mentionning**  
 Panéliste, Café citoyen du Cégep du Vieux Montréal : Environnement = engagements, septembre 2019.   
 Animation, [débat électoral](https://www.youtube.com/watch?v=XA-CnDELIko) de la circonscription de Laurier-Sainte-Marie, octobre 2019.  
 Récipiendaire de la [Médaille du lieutenant-gouverneur à la jeunesse](http://www.cvm.qc.ca/membrespersonnel/pages/index.aspx?idActualite=4133), 2019.  
