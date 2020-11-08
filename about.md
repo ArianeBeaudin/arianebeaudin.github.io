@@ -38,9 +38,9 @@ _Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du se
 
 
 **Others things/events worth mentionning**  
-Panéliste, Café citoyen du Cégep du Vieux Montréal : Environnement = engagements, septembre 2019.   
-Animation, [débat électoral](https://www.youtube.com/watch?v=XA-CnDELIko) de la circonscription de Laurier-Sainte-Marie, octobre 2019.  
-Récipiendaire de la [Médaille du lieutenant-gouverneur à la jeunesse](http://www.cvm.qc.ca/membrespersonnel/pages/index.aspx?idActualite=4133), 2019.  
+Panéliste, _Café citoyen du Cégep du Vieux Montréal : Environnement = engagements_, septembre 2019.   
+Animatrice, [débat électoral](https://www.youtube.com/watch?v=XA-CnDELIko) de la circonscription de Laurier-Sainte-Marie, octobre 2019.  
+Récipiendaire de la [Médaille du Lieutenant-gouverneur pour la jeunesse](http://www.cvm.qc.ca/membrespersonnel/pages/index.aspx?idActualite=4133), 2019.  
 
 
 
