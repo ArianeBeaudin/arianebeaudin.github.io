@@ -10,7 +10,7 @@ First, since I've been reading mostly articles online for so long, I felt very n
 
 I was happy to realize that, despite the fact that I have found this text in an obscure corner of the internet, the book in and on itself wasn't that obscure and could be downloaded. I'm very excited to dive more into Indigenous methodology and praxis in academia. But for now I'd like to just let here the most important passage of what I've read so far.
 
->[...] and Indigenous methodology must be a process that adheres to relation accountability. Respect, reciprocity and responsibility are key features of any healthy relationship and must be included in an Indigenous methodology; Cora (Weber-Pillwax, 2001) call these the 3'R's of Indigeneous research and learning. In and Indigenous research paradigm, the researcher must ask :
+>[...] an Indigenous methodology must be a process that adheres to relation accountability. Respect, reciprocity and responsibility are key features of any healthy relationship and must be included in an Indigenous methodology; Cora (Weber-Pillwax, 2001) call these the 3'R's of Indigeneous research and learning. In and Indigenous research paradigm, the researcher must ask :
 >
 > - How do my methods help to build respectufl relationships between the topic that I am studying and myself as researcher (on multiple levels)?
 > - How do my methods help to build repectful relationships between myself and the other research participants?
