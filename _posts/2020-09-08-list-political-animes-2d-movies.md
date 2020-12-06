@@ -22,5 +22,7 @@ On the cyclical aspect of fighting against oppression (as in, it is a fight that
  5. Hayako Miyazaki's work in general  
 There is this [nice marxist analysis of Miyazaki's work](https://www.youtube.com/watch?v=UMXN6B-tqZM&t=1471s&ab_channel=Zeria) to which I would like to come back to.
 
+6. *She-Ra and the Princesses of Power* (2018-2020), fantasy/sci-fi cartoon
+I could go on and on about why I think this cartoon is amazing. But, in short, following queer princesses with magical abilities uniting to defeat a common evil is wonderful. Kids (and adults) need that kind of show in their life to be able to imagine our very own uprising. 
 
  
