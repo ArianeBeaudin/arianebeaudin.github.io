@@ -21,9 +21,9 @@ And since my universe is one of science-fiction where androids, cyborgs and huma
 
 Once again I have no intention of summarizing the text in its entirety (I recommend everybody interested in the subject to read it themselves), but here's some interesting points I want to go back to later:
 - To not model robots on the ''flawed human'' but on the Buddhist practitioner who's compassion driven, how does that translate in real code?  I gotta see what the Mukta Institude is doing. And also this text on [Ubuntu (not the OS) as a framework for AI](https://carrcenter.hks.harvard.edu/publications/rationality-relationality-ubuntu-ethical-and-human-rights-framework-artificial) can help me figure this out.
-- The question of robot design, namely sex dolls, in regard of this quote : 
+- The question of robot design, namely sex dolls, in regard of this quote by Kawaguchi: 
 
->“To a certain degree, we feel empathy and attraction to a humanlike object; but one tiny design change, and suddenly we are full of fear and revulsion” -Kawaguchi.”
+>“To a certain degree, we feel empathy and attraction to a humanlike object; but one tiny design change, and suddenly we are full of fear and revulsion.” 
 
 
 - and maybe a question tiré par les cheveux but could a certain ''body diversity'' in robots (because the quote suggests the design of robots looking like robots and not trying to replicate human form) help humans to accept the body diversity of their own specie (hello fatphobia)?
