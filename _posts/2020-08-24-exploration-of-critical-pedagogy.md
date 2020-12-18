@@ -17,4 +17,5 @@ So here is just a little post to save some resources about it, authors and quest
 
 As I am writing this, we are entering in Virgo season, which is also back to school season. I am looking forward all the headlines about everything going wrong in the reopening of schools among a pandemic.  
 
+ **EDIT 18/12/2020** : I think it's worth adding another text to this list, also from *Ouvrage*, which is [«Contre la romance de l'éducation»](http://www.revue-ouvrage.org/contre-la-romance-de-leducation/). I thought it was mind blowing and I want to go back to it another day. 
 
