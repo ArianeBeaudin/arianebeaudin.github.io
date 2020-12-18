@@ -41,3 +41,5 @@ So this peculiar situation will hopefully help me do three things :
 
 Therefore, I am very excited to start my new academic life. I am happy if someone reads that and feel inspired by my unconventional approach. But, in the end, I wrote this little piece to be able to come back to it, to help me remain grounded in moments of doubts. I don't know if my mom will see the point of all of this, but I'm sure that Paolo Freire would be proud of me.  
 
+**EDIT 18/12/2020**: Well, of course I have changed my plan already. Currently enroled in the Certificat en animation culturelle and not planning to do the the two others. I took one class from the Certificat pour formateurs en milieu de travail this semester as an independant student and I didn't enjoy it much so I thought it'd be better to reconsiderate.  
+
