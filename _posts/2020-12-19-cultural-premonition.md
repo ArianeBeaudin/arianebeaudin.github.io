@@ -1,0 +1,27 @@
+---
+layout: post
+title: cultural premonition
+description: On the collective unconscious, how pop culture can predict the future and africanfuturism.
+---
+
+
+When I was studying in International relations, I fell in love with constructivism. Because in international relations theory there is few proeminent intellectual currents, namely the realist school, who are just a bunch of pessimists folks who seek war, and the liberalists, which are a bit better but never convinced me. Well, I fell in love with _my_ idea of constructivism because when I looked back into the definition of it in the context of international relations, I realize it didn't meant what I thought it meant.
+
+The realists would say that wars are inevitable. The liberalists would say that they can be avoided if states are strongly interdependant. The real constructivists would say that it depends on how the states perceive themselves, or something like that.
+
+Maybe in my misunderstanding I was foreshadowing my future, now current, anarchist view of the world (in the political sense, not the international relations sense). Because in my understanding of constructivism, it wasn't about ''states self-perception''.... like states don't have consciousness, they merely exist since they are afterall just abstract concept (something that people don't stress hard enough in my opinion). No, my understanding of constructivism was that international relations were, at the end of the day, shaped by the perceptions of real people. Like not only politicians and diplomats, but the regular people too. 
+
+With this in mind, my constructivist take on wars would be ''if the people think war is legitimate, then war will happen, but if the people think it's illegitimate, then it won't''. 
+
+Even if I don't study international relations much anymore, it doesn't interest me much, this constructivist thinking stayed with me in my new fields of study. Well, I'm still having a hard time drawing the lines about what my current fields of study are but let's say that I'm all about how to shape the future. I wouldn't say it's futurism in and on itself, but I guess I could say that I'm doing some very transdisciplinary futurism. 
+
+My constructivist take on shaping the futures is all about narratives and the collective unconscious in some way. I'm a big fan of Jung and even if I sometimes forget about him for a while, he's always there in my heart. Therefore, I am guilty, just like all the other academics, to bring Jung to the table to feel credible when I talk about esoteric matters hehe.
+
+Remember when I mention capitalist realism in my [It always goes back to ambitopia](https://ravirer.com/2020/07/20/it-always-go-back-to-ambitopia/) post? Well this idea of "it's easier to envision the end of the world than the end of capitalism" is very anchored in my constructivist story. (Just to mention that I am starting to be very more critic of the term "end of the world" or apocalypse but I won't dive into this here.) The Youtube channel _Some More News_ recently put online their [Some More News : The Movie](https://www.youtube.com/watch?v=Yj-wc9qugGY&ab_channel=SomeMoreNews) video and it really helped me connect the dot. This 2 hours "movie" is in fact more like a homemade documentary about american apocalyptic science-fiction and pop culture. They look at sci-fi movies from the 70s to ours days and the constat is quite clear : since the 70s, American cinema is selling us the idea of the end of the world, the idea that we are doomed, that nobody will act upon the upcoming crisis and that the new generations' aims must simply be survival. One great example of this is how people born in the 1990 grew up with what seemed innocent back-then _The Land Before Time_ (or _Petit pied_ in French) which follow a bunch of dinosaur kids who are trying to survive extinctions (the only adult, the mother of the main charachter, dies at the beginning of the movie.)
+
+A few days after watching this video, I remembered a podcast I listened to when I used to live in Rosemont and had to walk on Beaubien in 2019. I managed to find it back, it was an episode of Occulture, more precisely the [Sync or Swim episode with synchromystic Chris Knowles](https://www.occulturepodcast.com/archive/sync-or-swim-chris-knowles). The guest, Knowles, is blogging about how pop culture can predict the future (he also wrote a book about the matter). He is especially into comics and superheroes if I remember correctly. And this idea of pop culture premonition very resonate with my understanding of the collective unconscious. It also fits well my narratives-centered approach to futurism.
+
+I recently started to dive more deep into africanfuturism. I must say I am mesmerized by the Black imagination and I am ashamed I haven't started reading Black authors earlier in my life. Of course, since I just started to discover this universe, I feel like I'm seeing it everywhere now. I mean, for sure, it's partly in my head, but also I haven't hallucinated the _ampleur_ of the movement Black Lives Matter. The stories in Black SF are incredibly realist but also incredibly hopeful quite often. They don't simply offer entertainment, most of the time they offer creative way to counter-attack oppressive forces. And this brings a lot of joy and excitement to me. And... you know where I'm getting... If this become the mainstream (or at least, reach the mainstream), and if to be in the mainstream = to be a premonition in some way, it gives us such a more fertile future. 
+
+
+
