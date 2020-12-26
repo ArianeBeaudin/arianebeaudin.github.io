@@ -8,10 +8,6 @@ title: my favorite books
 
 ![Flow](https://i.harperapps.com/covers/9780061339202/y648.jpg)
 
-![The Upside of Stress : Why Stress Is Good For You, And How To Get Good at It by Kelly McGonigal](https://img1.od-cdn.com/ImageType-100/1191-1/%7B31CC7564-1C5C-40C9-A730-3FAFEABA527D%7DImg100.jpg)
-
-![Unbroken Brain](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454880052l/25663669.jpg)
-
 
 ## Spirituality  
 ---
@@ -31,20 +27,15 @@ title: my favorite books
 
 ![Webs of Power: Notes from the Global Uprising](https://m.media-amazon.com/images/I/41TdOZCaTML.jpg)
 
-![This Machine Kills Secrets](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1421/9780142180495.jpg)
-
-![Socialism... Seriously](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436233077l/25330069._SX318_.jpg)
-
-![Post-scarcity anarchism](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1203209745l/2707680.jpg)
+![Emergent Strategy : Shaping Change, Changing Worlds](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460506102l/29633913.jpg)
 
 ![Pedagogy of the oppressed](https://www.penguin.co.uk/content/dam/prh/books/225/22583/9780241301111.jpg)
 
 
 
+
 ## Apprehending the world
 ---
-
-![21 lessons for the 21st century](https://www.ynharari.com/wp-content/uploads/2018/02/21-e1522162241675.jpg)
 
 ![The Chalice & the Blade](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505158290l/470367._SY475_.jpg)
 
@@ -59,9 +50,6 @@ title: my favorite books
 ![La vie littéraire](https://www.labibleurbaine.com/wp-content/uploads/2014/08/Critique-roman-la-vie-litt%C3%A9raire-Mathieu-Arsenault-Le-Quartanier-Bible-urbaine-e1409255935627.jpg)
 
 
-![The Naked Lunch](http://blog.naa.gov.au/banned/files/2013/03/Naked-Lunch.jpg)
-
-
 ## Poetry
 ---
 
@@ -71,9 +59,5 @@ title: my favorite books
 
 ## Miscellaneous
 ---
-
-![Your Money or Your Life](https://images-na.ssl-images-amazon.com/images/I/61tAWrb9HQL.jpg)
-
-![The Ethical Slut](https://images-na.ssl-images-amazon.com/images/I/51UaLgQ-6WL.jpg)
 
 ![The Art of Gathering](https://images4.penguinrandomhouse.com/cover/9781594634925)

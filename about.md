@@ -22,7 +22,7 @@ Profesionally speaking, I can do :
 * Tarot reading/counseling 
 * Coding and database work, I especially enjoy Python, Neo4j and everything Linux based
 
-If you want to know more about me, hire me or collaborate with me, you can send an email at ariane.beaudin@hotmail.com. 
+If you want to know more about me, hire me or collaborate with me, you can send an email at ariane.beaudin@hotmail.com or DM me on [Instagram](https://www.instagram.com/ariane.beaudin/). 
 
 And I'll leave you on this wannabe portfolio of mine. Au plaisir! 
 
