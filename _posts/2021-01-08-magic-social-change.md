@@ -7,7 +7,7 @@ description: What is magic and withcraft in the context of social changes and ac
 (little piece from my zine-in-progress _Witchcraft Is Social Change_)
 
 ## WHAT IS WITCHCRAFT? 
-## AND WHAT IS WITCHCRAFT IN THE CONTEXT OF SOCIAL CHANGE?
+### AND WHAT IS WITCHCRAFT IN THE CONTEXT OF SOCIAL CHANGE?
 
 There's two ways to define witchcraft or magic that intertwine. The first one is to play it safe. It's when you define magic as a a way to change reality in order to attain some results. In this context, everything is magic. Seduction can be magic. Coding can be magic. There's in my opinion nothing wrong with that, except that it can also allow the interpretation of a rationalized magic that would eventually deny the real magic. 
 
