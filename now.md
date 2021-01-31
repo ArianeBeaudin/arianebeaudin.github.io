@@ -3,7 +3,7 @@ layout: page
 title: now
 ---
 
-I am an independant student at the Université du Québec à Montréal.
+I am studying in cultural action at the Université du Québec à Montréal.
 
 Creatively, I am working on a zine about witchcraft and social changes. 
 
