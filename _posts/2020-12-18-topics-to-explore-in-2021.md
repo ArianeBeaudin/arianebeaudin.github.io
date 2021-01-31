@@ -7,7 +7,7 @@ description: What I am planning to study and do in the upcoming year of 2021
 I honestly don't think I'll be able to stick to any plan in 2021. I am always changing my plans. But here's a few certainty for 2021 :
 - I will do at least one semester in Animation culturelle at UQAM.
 - I will try TELUQ's system by taking at least one class from the Majeure en éducation aux adultes.
-- I will run for mayor in the upcoming municipal elections in Mercier-Hochelaga-Maisonneuve.
+- I will run for mayor or municipal advisor in the upcoming municipal elections in Mercier-Hochelaga-Maisonneuve.
 
 Regarding those facts, here some stuff I absolutely want to study in my spear time or throughout my school project :
 - Municipalism and history of Mercier-Hochelaga-Maisonneuve
@@ -30,4 +30,4 @@ On a more personal side, I'd like to continue :
 - To get better at taking care of a variety of plants
 - To deepen my care praxis and understanding of the ethics of care 
 
- 
+ **EDIT 31/01/2021** : Well, I changed my mind about trying to go to TELUQ and I'm also somewhat giving up in advance in reading more novels than last year.
