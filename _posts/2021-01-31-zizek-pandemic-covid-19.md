@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zizec and the COVID-19 Pandemic
+title: zizec and the COVID-19 pandemic
 description: Reading notes from Zizec book on the COVID-19
 ---
 Here's some notes from my reading of _PANDEMIC!: COVID-19 Shakes The World_ where Zizec argues that there will be no back to normal, hence we need to establish a new form of communism or else we'll see some barbarism "with a human face" takes place.
