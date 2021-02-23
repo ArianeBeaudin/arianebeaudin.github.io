@@ -5,7 +5,7 @@ title: about
 
 Hello, my name is Ariane Beaudin and I am a non-binary artist, intellectual and activist. My pronouns are they/she.  
 
-I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, science-fiction, spirituality and education.
+I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, decolonization, science-fiction, spirituality and education.
 
 You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
 
@@ -19,6 +19,7 @@ Profesionally speaking, I can do :
 * Tutoring, with a speciality in perfectionnement du français
 * Correction and edition of texts  (in French)
 * Writing of all sorts (even personalized erotic stories) 
+* Facilitation and mediation
 * Tarot reading/counseling 
 * Coding and database work, I especially enjoy Python, Neo4j and everything Linux based
 
@@ -41,7 +42,6 @@ _Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du se
 Panéliste, _Café citoyen du Cégep du Vieux Montréal : Environnement = engagements_, septembre 2019.   
 Animatrice, [débat électoral](https://www.youtube.com/watch?v=XA-CnDELIko) de la circonscription de Laurier-Sainte-Marie, octobre 2019.  
 Récipiendaire de la [Médaille du Lieutenant-gouverneur pour la jeunesse](http://www.cvm.qc.ca/membrespersonnel/pages/index.aspx?idActualite=4133), 2019.  
-
 
 
 
