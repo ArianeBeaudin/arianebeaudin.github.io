@@ -17,14 +17,14 @@ But parrallely, I am thinking that this selective bibliographies project could b
 
 But at the end of the day, my concerns still go to the idea of contextualisation. This [newsletter issue](https://sariazout.substack.com/p/check-your-pulse-55) sparked my interest on the topic. In it, Sari Azout says very wisely that 
 
->> [...]thus far, the conversation around “curation” has been too focused on the content – “what should I read?” – and not enough on the structure – “how do we collect, store, and contextualize the information we consume?” We seem to have forgotten that the goal is not to consume more information. The goal is to think better, so we can achieve our goals. 
+> [...]thus far, the conversation around “curation” has been too focused on the content – “what should I read?” – and not enough on the structure – “how do we collect, store, and contextualize the information we consume?” We seem to have forgotten that the goal is not to consume more information. The goal is to think better, so we can achieve our goals. 
 
 Therefore, she points out that
 
->>Three intersecting problems remain unsolved: 
->>1. Our feed-based information architecture is obsessed with the present.
->>2. We consume information recreationally, not as a way to achieve our goals.
->>3. Curation has been too focused on the information and not enough on architecture; how we collect, store, augment, and utilize what’s already in our minds. 
+>Three intersecting problems remain unsolved: 
+>1. Our feed-based information architecture is obsessed with the present.
+>2. We consume information recreationally, not as a way to achieve our goals.
+>3. Curation has been too focused on the information and not enough on architecture; how we collect, store, augment, and utilize what’s already in our minds. 
 
 
 So yeah, that's good food for thought. And to go back to my particular situation, I feel like I would be very willing to invest energy in order to "fix those issues" but at the same time, I realise that it might "not be that worth it" because I have almost no visibility with my digital garden. Therefore, I was thinking that I maybe do need to start a newsletter and stuff. 
