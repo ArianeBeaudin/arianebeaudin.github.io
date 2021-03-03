@@ -31,3 +31,6 @@ On a more personal side, I'd like to continue :
 - To deepen my care praxis and understanding of the ethics of care 
 
  **EDIT 31/01/2021** : Well, I changed my mind about trying to go to TELUQ and I'm also somewhat giving up in advance in reading more novels than last year.
+ 
+ **EDIT 03/03/2021** : Well, I finally just signed up to a Knowledge Management class offered by TELUQ. Also, I finished two novels (one sci-fi) and I am planning to read at least two others in the near future (also one sci-fi, plus a Tunisian writer) so I guess I am not giving up on my reading ambitions. 
+ 
