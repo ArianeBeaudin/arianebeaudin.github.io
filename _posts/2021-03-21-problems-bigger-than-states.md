@@ -14,7 +14,7 @@ I am currently reading many wonderful books, among them _The Communism of Love_ 
   
   This frame opened my eyes in new ways and somewhat resonated with ideas from [Zizek's recent book on the pandemic](https://www.ravirer.com/2021/01/31/zizek-pandemic-covid-19/), where he stresses the importance of a strong relations of trust between states and their people to maybe establish some new form of _disaster communism_ in face of the rise of barbarism. The precise passage that came in mind was the following : 
     
-    > Carlo Ginzburg proposed the notion that being ashamed of one's country, not love of it, may be the true mark of belonging to it. (p.43)
+  > Carlo Ginzburg proposed the notion that being ashamed of one's country, not love of it, may be the true mark of belonging to it. (p.43)
     
   When I read this the first time, it made me laugh as I thought "wow I really belong here then". And since then I often daydream about formulating a theory of some form of anti-nationalism from this starting point, but that is somewhat unrelated to Spiegler. In this moment, I don't think Ginzburg's proposition can apply to Spiegler's concern. Because I feel that there's a lot of apathy involved in the "disliking of the world" that would somewhat diluted the shame.
   
