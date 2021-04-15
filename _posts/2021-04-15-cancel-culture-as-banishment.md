@@ -28,7 +28,7 @@ Also another element on this very blury reflexions, from the book _Silicon Value
 
 How much have we internalized this flagging culture and how does it play with cancel culture? Of course, people of color aren't the people the most being reported on, for once, but I think it doesn't help at the end of the day. Like yes, maybe cancelling people does protect our community in some way. But also, maybe by targeting even more and more white people for mistakes of theirs, or unlearning they haven't done yet, we are scaring potential allies (culture of "we cannot say anything anymore") and isolate ourselves further more, which, at the end of the day, is more of a victory for white supremacists than for us.
 
-White people cannot become perfect antiracist allies without interacting with BIPOC people, it's sad but true. A white person can read all the the book on antiracism, but reading alone is not praxis, even if you want it to be praxis. You need real people, real situations, to learn. Therefore, it sucks but it's part of the game. Also, while it is true that we must condemn harms done voluntarily, we also need to recognize that hurt people hurt people. We all are hyr Compassion is often the way to go. 
+White people cannot become perfect antiracist allies without interacting with BIPOC people, it's sad but true. A white person can read all the the book on antiracism, but reading alone is not praxis, even if you want it to be praxis. You need real people, real situations, to learn. Therefore, it sucks but it's part of the game. Also, while it is true that we must condemn harms done voluntarily, we also need to recognize that hurt people hurt people. We are all hurting under this system. Compassion is often the way to go. 
 
 
 
