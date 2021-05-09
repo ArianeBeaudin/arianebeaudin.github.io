@@ -14,8 +14,8 @@ Cool sources of info:
 - Silicon Values : The Future of Free Speech Under Surveillance Capitalism by Jillian C. York (Verso Books, currently reading)
 - Being Numerous : Essays on Non-Fascist Life by Natasha Lennard (Verso Books, currently reading)
 - [Respect Even for Terrible Person : What Does it Means?](https://open.spotify.com/episode/3RFxLYOh4ug5kgmhxAKQmK?si=DJE9Sc2oS6aXO6hM_h8uuw) by the Zen Studies Podcast (podcast, not listened yet)
-- The serie [Tous polarisés](https://www.ledevoir.com/motcle/serie-tous-polarises) by Le Devoir
-- [Conspirituality podcast](https://open.spotify.com/show/2imIsM2NZRPpQvI56TLdM5?si=RFlk4MF5Q4KpHEF07t8XfQ) (no specific episodes, because I haven't listened to any of them yet)
+- The serie [Tous polarisés](https://www.ledevoir.com/motcle/serie-tous-polarises) by Le Devoir (compilation of articles)
+- [Conspirituality podcast](https://open.spotify.com/show/2imIsM2NZRPpQvI56TLdM5?si=RFlk4MF5Q4KpHEF07t8XfQ) (no specific episode because I haven't listened to any of them yet)
 
 
 Thoughts : 
