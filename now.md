@@ -7,7 +7,7 @@ I am studying in Animation culturelle at the Université du Québec à Montréal
 
 I live in Montréal, Québec, Canada with my lovely cat Satori.   
   
-I am currently running for city counselor in the Hochelaga district as an independant candidate, openly anticapitalist. You can find my campaign website [here](www.arianebeaudin.info).
+I am currently running for city counselor in the Hochelaga district as an independant candidate, openly anticapitalist. You can find my campaign website [here](http://www.arianebeaudin.info).
 
 
 
