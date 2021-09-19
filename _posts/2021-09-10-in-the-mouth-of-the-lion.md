@@ -15,9 +15,9 @@ There has been a few very memorable episodes that made me felt like I should put
 Also I want to mention, that in some magical divine timing, I found a wonderful job in my neighborhood in urban agriculture this summer that was so very much fullfilling. I liked the proximity with nature, it healed something in me (still healing now). I wouldn't say it turned me into a ''green witch'' or anything, but it gave me a new direction for the future (I want to keep working in that field) and it feels very comfortable.
 
 But yes, the episodes that marked me the most so far were :  
--[Karen Piper : Rethinking colonial water architecture in the face of 'scarcity']( https://open.spotify.com/episode/0dnnzTEzyv8Cg3vC0xW7aD?si=948201c556064d38)  
--[Alnoor Ladha : Sacred activism and contextualised spirituality](https://open.spotify.com/episode/72206woSKG2MRDXLcxSPIH?si=968822a92df34dfc)  
--[Dr. Alexis Shotwell : Purity politics in compromised times]( https://open.spotify.com/episode/2bTgUs4OkF9nEKBOrdtG0f?si=34565f0146404f5a)  
+- [Karen Piper : Rethinking colonial water architecture in the face of 'scarcity']( https://open.spotify.com/episode/0dnnzTEzyv8Cg3vC0xW7aD?si=948201c556064d38)  
+- [Alnoor Ladha : Sacred activism and contextualised spirituality](https://open.spotify.com/episode/72206woSKG2MRDXLcxSPIH?si=968822a92df34dfc)  
+- [Dr. Alexis Shotwell : Purity politics in compromised times]( https://open.spotify.com/episode/2bTgUs4OkF9nEKBOrdtG0f?si=34565f0146404f5a)  
 
 
 Unfortunately, I do not feel like summarize them and truly make them echoed each others at the moment. I am more in the mood to expand on what they made me realize, that is that what moves me the most is collective work and that no matter how much I'm trying to be ''serious and rational'' I can't help but be highly attracted by the spiritual/esoteric.   
