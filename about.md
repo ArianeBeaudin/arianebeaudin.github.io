@@ -10,9 +10,9 @@ In the past, I’ve studied liberal arts, international relations and laws and c
 Deep down, I just want to run away and open a farm though. The more cool and official version of that is that I will co-create an eco-village with my friends.  
 
 My fields of interest include, but are not limited to, urban agriculture, magical realism, critical studies of psychology, community building and (non-monogamous) love.  
+
 I am trying to become known on the internet via two alter egos of mine.  
-The first being The Glitch Witch, who is the persona through whom I am creating a body of glitch art, where I am experimenting namely about propaganda, queerness and sex magick.   
-The second being L’Oracle du Shlag, with whom I am offering divination service to help navigating (and eroding) this capitalist hellscape.  
+The first being The Glitch Witch, who is the persona through whom I am creating a body of glitch art, where I am experimenting namely about propaganda, queerness and sex magick. The second being L’Oracle du Shlag, with whom I am offering divination service to help navigating (and eroding) this capitalist hellscape.  
 
 I used to be quite active in the climate activist movement (2019-2020), namely in the organization of student strikes. Right now, I am somewhat politically homeless but I’m trying to do my part here and there, learning my revolutionary history slowly but surely meanwhile.   
 
@@ -37,6 +37,7 @@ _Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du se
 Panéliste, _Café citoyen du Cégep du Vieux Montréal : Environnement = engagements_, septembre 2019.   
 Animatrice, [débat électoral](https://www.youtube.com/watch?v=XA-CnDELIko) de la circonscription de Laurier-Sainte-Marie, octobre 2019.  
 Récipiendaire de la [Médaille du Lieutenant-gouverneur pour la jeunesse](http://www.cvm.qc.ca/membrespersonnel/pages/index.aspx?idActualite=4133), 2019.  
+Candidate indépendante pour le poste de conseillère de ville dans Hochelaga, 2021. 
 
 
 
