@@ -3,27 +3,22 @@ layout: page
 title: about
 ---
 
-Hello, my name is Ariane Beaudin and I am a non-binary artist, intellectual and activist. My pronouns are they/she.  
+Hello, my name is Ariane Beaudin (they/she). I'm a writer, tarot practitioner and glitch artist based in Tiohti:áke, in so-called Canada. My work is anchored in the ethics of care and anticapitalist praxis. I also like to think of myself of some kind of organic intellectual.  
 
-I like to investigate the many ways we can disrupt status quo, namely through the lens of queerness, decolonization, science-fiction, spirituality and education.
+In the past, I’ve studied liberal arts, international relations and laws and computer science. Now I’m in a mix of cultural and political studies. Considering to dive into land use planning and risk management in a near future and maybe doing a master in sustainability.  
 
-You can go on my [/now page](http://ravirer.com/now) to know what I'm currently doing. 
+Deep down, I just want to run away and open a farm though. The more cool and official version of that is that I will co-create an eco-village with my friends.  
 
-Please forgive me in advance for the abundance of French here, but I've been doing most of my work and engagment in francophone communities so far. 
+My fields of interest include, but are not limited to, urban agriculture, magical realism, critical studies of psychology, community building and (non-monogamous) love.  
+I am trying to become known on the internet via two alter egos of mine.  
+The first being The Glitch Witch, who is the persona through whom I am creating a body of glitch art, where I am experimenting namely about propaganda, queerness and sex magick.   
+The second being L’Oracle du Shlag, with whom I am offering divination service to help navigating (and eroding) this capitalist hellscape.  
 
-Otherwise, in those recent years, I completed a Technique intensive en informatique at the Cégep du Vieux-Montréal (2019-2020). Before that, I completed a DEC in Histoire et civilisations at the same cegep (2015-2017), and I studied in Relations internationales et droit international at l'Université du Québec à Montréal for a year (2018). My university experience disappointed me a lot back then, and that led me to drop out and create a blog named [Apprendre comme du monde](http://apprendrecommedumonde.wordpress.com) where I explored self-directed learning.  I also got involved in the organization of student strikes for the climate and other social and ecological initiatives in the Cégep du Vieux-Montréal while I was studying in computer science. 
+I used to be quite active in the climate activist movement (2019-2020), namely in the organization of student strikes. Right now, I am somewhat politically homeless but I’m trying to do my part here and there, learning my revolutionary history slowly but surely meanwhile.   
 
-Or maybe to get a better sense of who I am it could be interesting for you to take a look at this [list of all the books I've read since 2018](https://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbhhttps://1drv.ms/x/s!Al0exe4DLIOhyQ4pZh4k9G2kYwny?e=90qAbh). I also have my [Zotero library](https://www.zotero.org/ariane.beaudin/library) public, which is where I store the academic litterature I consult for my personnal research. I also compiled some of my favorite books in this [post](http://ravirer.com/collections/reading_essentials/).  
+Oh, and also, I miss coding and all that jazz. I am a Neo4J nerd, if you are ever looking for a real weird Neo4J nerd. I’ve got nothing to show to prove of that nerdy-ness though. And also again, I can correct and edit stuff in French, please hire me, I love to do that kind of stuff.   
 
-Profesionally speaking, I can do : 
-* Tutoring, with a speciality in perfectionnement du français
-* Correction and edition of texts  (in French)
-* Writing of all sorts (even personalized erotic stories) 
-* Facilitation and mediation
-* Tarot reading/counseling 
-* Coding and database work, I especially enjoy Python, Neo4j and everything Linux based
-
-If you want to know more about me, hire me or collaborate with me, you can send an email at ariane.beaudin@hotmail.com or DM me on [Instagram](https://www.instagram.com/ariane.beaudin/). 
+You can always reach out to me by email at ariane.beaudin@hotmail.com or with a DM on [Instagram](https://www.instagram.com/ariane.beaudin/). 
 
 And I'll leave you on this wannabe portfolio of mine. Au plaisir! 
 
