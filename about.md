@@ -12,7 +12,7 @@ Deep down, I just want to run away and open a farm though. The more cool and off
 My fields of interest include, but are not limited to, urban agriculture, magical realism, critical studies of psychology, community building and (non-monogamous) love.  
 
 I am trying to become known on the internet via two alter egos of mine.  
-The first being The Glitch Witch, who is the persona through whom I am creating a body of glitch art, where I am experimenting namely about propaganda, queerness and sex magick. The second being L’Oracle du Shlag, with whom I am offering divination service to help navigating (and eroding) this capitalist hellscape.  
+The first being [The Glitch Witch](https://www.instagram.com/_theglitchwitch_/), who is the persona through whom I am creating a body of glitch art, where I am experimenting namely about propaganda, queerness and sex magick. The second being L’Oracle du Shlag, with whom I am offering divination service to help navigating (and eroding) this capitalist hellscape.  
 
 I used to be quite active in the climate activist movement (2019-2020), namely in the organization of student strikes. Right now, I am somewhat politically homeless but I’m trying to do my part here and there, learning my revolutionary history slowly but surely meanwhile.   
 
