@@ -3,11 +3,11 @@ layout: page
 title: now
 ---
 
-I am studying in Animation culturelle at the Université du Québec à Montréal. I am the person in charge of inclusivity in my program association.
+I am studying at the Université du Québec À Montréal.
 
-I live in Montréal, Québec, Canada with my lovely cat Satori.   
+I live in Tiohti:áke (Mtl), in the wonderful neighborhood of Hochelaga.   
   
-I am currently running for city counselor in the Hochelaga district as an independant candidate, openly anticapitalist. You can find my campaign website [here](http://www.arianebeaudin.info).
+I am looking for a short-term job as I am waiting for my seasonal work (urban agriculture) to start again. 
 
 
 
