@@ -26,7 +26,7 @@ And I'll leave you on this wannabe portfolio of mine. Au plaisir!
 [_Pour une littérature ambitopique_](http://lheuristique.ca/article.php?id=525), mars 2020, L'Heuristique.  
 _Vers un féminisme queer_, AGEnda 2019-2020 de l'AGECVM.  
 _Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du sexe_, AGEnda 2019-2020 de l'AGECVM.  
-_Suite poétique_, vol 25(1) 2021, Main blanche (maintenant Grands Espaces).  
+[_Suite poétique_](https://issuu.com/revuemainblanche/docs/mb_correspondances_v3-web?fbclid=IwAR0jxfyP3N6UfqunOOOiV8n9U8sgdrOXNBbGw3GlBGVjDJBiLDEwPNyUMo4), vol 25(1) 2021, Main blanche (maintenant Grands Espaces).  
 
 
 **Podcasts**  
