@@ -6,7 +6,7 @@ description: little text about how to manage our mental health while trying to f
 
 I was going through my old Obsidian file when I stumbled upon an old abandoned zine project (I suppose it was a zine project) that I had completely forgotten about. As I was re-reading it, I was like "wow, I wrote that? that's relevant", therefore I thought of sharing it here. I am somewhat too lazy to edit it though, so consider it a draft. After all, this place is a digital garden. I plant seeds, not complete and perfect ideas. So here it is : 
 
-# Survival Guide For Those Who Aren't in Denial
+## Survival Guide For Those Who Aren't in Denial
 
 The state of the world is quite depressing. 
 The fight for social and environmental justice will be a long and harsh one.
@@ -15,7 +15,7 @@ The less privileged ones are simply already suffering.
 A sense of powerlessness and alienation is everywhere.
 And yet, I think we can go collectively go throught this with our heads up.
 
-### WHEN WE ARE WONDERING IF WE ARE DOING ENOUGH (INDIVUALLY), IF WE ARE DOING THE RIGHT THINGS, IF IT WILL BE ENOUGH (TO MAKE CHANGES HAPPEN)
+### WHEN WE ARE WONDERING IF WE ARE DOING ENOUGH (INDIVIDUALLY), IF WE ARE DOING THE RIGHT THINGS, IF IT WILL BE ENOUGH (TO MAKE CHANGES HAPPEN)
 
 My strategies to cope rely on two simple things : 
 - I trust that I can always prioritize actions that contributes to the greater good and that what I am doing is needed in the making of this new world we seek.
