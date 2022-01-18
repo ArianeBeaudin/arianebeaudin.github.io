@@ -6,7 +6,7 @@ description: little text about how to manage our mental health while trying to f
 
 I was going through my old Obsidian file when I stumbled upon an old abandoned zine project (I suppose it was a zine project) that I had completely forgotten about. As I was re-reading it, I was like "wow, I wrote that? that's relevant", therefore I thought of sharing it here. I am somewhat too lazy to edit it though, so consider it a draft. After all, this place is a digital garden. I plant seeds, not complete and perfect ideas. So here it is : 
 
-## Survival Guide For Those Who Aren't in Denial
+# Survival Guide For Those Who Aren't in Denial
 
 The state of the world is quite depressing. 
 The fight for social and environmental justice will be a long and harsh one.
@@ -15,7 +15,7 @@ The less privileged ones are simply already suffering.
 A sense of powerlessness and alienation is everywhere.
 And yet, I think we can go collectively go throught this with our heads up.
 
-# WHEN WE ARE WONDERING IF WE ARE DOING ENOUGH (INDIVUALLY), IF WE ARE DOING THE RIGHT THINGS, IF IT WILL BE ENOUGH (TO MAKE CHANGES HAPPEN)
+### WHEN WE ARE WONDERING IF WE ARE DOING ENOUGH (INDIVUALLY), IF WE ARE DOING THE RIGHT THINGS, IF IT WILL BE ENOUGH (TO MAKE CHANGES HAPPEN)
 
 My strategies to cope rely on two simple things : 
 - I trust that I can always prioritize actions that contributes to the greater good and that what I am doing is needed in the making of this new world we seek.
@@ -23,7 +23,7 @@ My strategies to cope rely on two simple things :
 
 The concept of holism is one of the many things to help us understand the power of micro-actions and social changes
 
-# WHEN WE ARE THINKING 
+### WHEN WE ARE THINKING 
 The ''why why why'' strategy
 
 
@@ -49,7 +49,7 @@ It mights sounds radical (and it probably is), but I think it's one way to trick
 
 And let me be clear, it doesn't mean always being political and starting debate. It might takes the form of always being kind to others, to take a post in the syndicate, to refuse to do something against your values, to suggest a new business partner in the meeting, who knows. It might even take the form of simply watching anime that night despite having the most eternal to-do lists. Because you are prioritizing yourself and when you are doing good, you can bring good.
 
-# BE MORE BUDDHIST AND ACCEPT SUFFERINGS
+### BE MORE BUDDHIST AND ACCEPT SUFFERINGS
 That the world is suffering is one of the most misunderstood buddhist precept. Yet I think it's one that takes time to accept, but once it is accepted, it is so very helpful.
 
 This section goes with the idea of 'apocalypse' and failure. With the COVID-19 pandemic, I came to think even more at the 'end of the world'. I was trying to envision a future where it would be pandemic after pandemic and what we could do about that. Since the pandemic interrupted my climate activism efforts, those ideas were melting with the images of environmental colapse. I was trying to find a middle ground. Because there is this idea that the ''end of civilization'' could be beneficial for ''nature''. Without falling into the eco-fascist trap, I concede part of this is true. But note as I wrote the end of civilization and not the human race. Note how I've put nature in quotation marks. Because there is no duality between we humans and nature, we are one. And right now we are harming ourselves as much as we are hurting the ecosystems. If an angry person would start to destroy this appartment, one wouldn't think "awn poor appartment, I have compassion for you". No, the compassion would rather be directed to the angry person that, once the anger will be over, will realised all the backlashs it has made. We don't do enough compassion towards ourselves. That's namely why environmental activisim feels somewhat so abstract. "We need to stop cutting this forest we have never walked in". "We need to stop the carbon emissions we cannot see." While it is true we must do those things, we need to bring back compassion toward ourselves. And this centering exercise is to better decenter ourselves afterward of course. We humans aren't superior living being just because we can write and stuff. But if we don't understand our motives, or how much we hurt, we'll never be able to persevere in our fight, we won't act from a place of truth, merely a place of fear.
@@ -69,5 +69,5 @@ Also, we can say that we were lucky as a species to have been granted such great
 
 ----
 Related content :  
--[mental health and how to fight for uncertainty](https://www.ravirer.com/2020/09/13/mental-health-fight-for-uncertainty/), digital garden entry from sept 2020
--[how to get your shit together in this capitalist hellscape](http://ravirer.com/collections/survival-guide-the-happy-anticapitalist.pdf/), freebie made for my The Happy Anticapitalist project
+- [mental health and how to fight for uncertainty](https://www.ravirer.com/2020/09/13/mental-health-fight-for-uncertainty/), digital garden entry from sept 2020
+- [how to get your shit together in this capitalist hellscape](http://ravirer.com/collections/survival-guide-the-happy-anticapitalist.pdf/), freebie made for my The Happy Anticapitalist project
