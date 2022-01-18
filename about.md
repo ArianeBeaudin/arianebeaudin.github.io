@@ -3,15 +3,15 @@ layout: page
 title: about
 ---
 
-Hello, my name is Ariane Beaudin (they/she). I'm a writer, tarot practitioner and glitch artist based in Tiohti:áke, in so-called Canada. My work is anchored in the ethics of care and anticapitalist praxis. I also like to think of myself of some kind of organic intellectual.  
+Hello, my name is Ariane Beaudin (they/she). I'm a writer, tarot practitioner and glitch artist based in Tiohti:áke, in so-called Canada. My work is anchored in the ethics of care and in anticapitalist praxis. I also like to think of myself of some kind of organic intellectual.  
 
-In the past, I’ve studied liberal arts, international relations and laws and computer science. Now I’m in a mix of cultural and political studies. Considering to dive into land use planning and risk management in a near future and maybe doing a master in sustainability.  
+In the past, I’ve studied liberal arts, international relations and laws and computer science. Now I’m in a mix of cultural and political studies.  
 
 Deep down, I just want to run away and open a farm though. The more cool and official version of that is that I will co-create an eco-village with my friends.  
 
 My fields of interest include, but are not limited to, urban agriculture, magical realism, critical studies of psychology, community building and (non-monogamous) love.  
 
-I am trying to become known on the internet via two alter egos of mine.  
+I am trying to become known on the internet namely via two alter egos of mine.  
 The first being [The Glitch Witch](https://www.instagram.com/_theglitchwitch_/), who is the persona through whom I am creating a body of glitch art, where I am experimenting namely about propaganda, queerness and sex magick. The second being L’Oracle du Shlag, with whom I am offering divination service to help navigating (and eroding) this capitalist hellscape.  
 
 I used to be quite active in the climate activist movement (2019-2020), namely in the organization of student strikes. Right now, I am somewhat politically homeless but I’m trying to do my part here and there, learning my revolutionary history slowly but surely meanwhile.   
@@ -26,6 +26,7 @@ And I'll leave you on this wannabe portfolio of mine. Au plaisir!
 [_Pour une littérature ambitopique_](http://lheuristique.ca/article.php?id=525), mars 2020, L'Heuristique.  
 _Vers un féminisme queer_, AGEnda 2019-2020 de l'AGECVM.  
 _Vers une reconnaisance des droits et de la dignité des travalleur-euse-s du sexe_, AGEnda 2019-2020 de l'AGECVM.  
+_Suite poétique_, vol 25(1) 2021, Main blanche (maintenant Grands Espaces).  
 
 
 **Podcasts**  
