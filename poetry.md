@@ -9,4 +9,6 @@ I write a lot of poetry, but I rarely organize my poems into something coherent.
 - <a href="hier_demain.pdf" target = "_blank"> HIER DEMAIN</a> (2020, 38p.)
 - <a href="https://www.yumpu.com/en/document/view/65134447/fukuro" target = "_blank"> fukuro</a> (Visual poetry, 2020, 10p.)
 - <a href="https://www.yumpu.com/en/document/view/65134445/to-rule-against-the-machine" target = "_blank"> TO RULE AGAINST THE MACHINE</a> (Visual poetry, 2020, 16p.)
+- <a href="https://docs.google.com/document/d/1KDteHf15gVkDuvjVyNBL_o4GDybmUUULGaUkfU_9S3Q/edit?usp=sharing" target = "_blank"> zine pour luca</a> (printemps 2022, 20p.)
+
 
