@@ -9,9 +9,9 @@ Prior to that note, another one named _green religion, planetary conciousness an
 - This [article about how to develop a planetary consciousness](https://www.noemamag.com/how-to-develop-a-planetary-consciousness/) in Noema Magazine
 - And another article in Noema Magazine, [_The Planet Is A Political Orphan_](https://www.noemamag.com/the-planet-is-a-political-orphan)
 
-Back then, I wanted to connect those to two pieces of fiction : the good old _Lost City of Atlantis_, which was one of my favorite childhood movie and that I had just rewatched back then and also the book _The Overstory_ by Richard Powers, which truly moved me. But hey, time's missing so I'll just leave it on that.
+Back then, I wanted to connect those to two pieces of fiction : the good old _Lost City of Atlantis_, which was one of my favorite childhood movie and that I had just rewatched back then and also the book _The Overstory_ by Richard Powers, which truly moved me. But hey, time's missing so I'll just leave it on that. BUT, I remember that one of the general feeling I was trying to vehiculate was my eternal ''urgh universities are outdated'' as I was gasping at all this international relations theory that were thought outside of the framework of nation borders, (see digital garden entry from mars 2021, [problems bigger than states](https://www.ravirer.com/2021/03/21/problems-bigger-than-states/) on the topic). 
 
-Since then, summer came and therefore I was back into my urban agriculture worker routine. And this year, I'm still so much in awe in front of nature, but I'm trying to truly act on it, honour it. Therefore, I'm reading and consuming a lot of content on the topic, and also I'm trying to truly and concretely feed my herbalist praxis. 
+Otherwise, since then, summer came and therefore I was back into my urban agriculture worker routine. And this year, I'm still so much in awe in front of nature, but I'm trying to truly act on it, honour it. Therefore, I'm reading and consuming a lot of content on the topic, and also I'm trying to truly and concretely feed my herbalist praxis. 
 
 The book that probably awaken the most my thirst for a deeper connection with nature is _Braiding Sweetgrass_ by botanist and indigenous scholar Robin Wall Kimmerer. Truly, this book is life changing. I'm not done reading it yet, but it really speaks to me. 
 
@@ -25,6 +25,10 @@ Because for so long I told myself I had to write a book to be sucessful, that I 
 
 In many of those media about herbalism and ancestral ways of living, there is this saying about having forgotten the langage of the world around us, be in the one of plants, animals or even our own inner voice or the own of our ancestors. Humans are the only specie who needs to read book to be able to thrive, it was also said in that last Medecine Stories podcast episode mentionned. 
 
-So yeah, I'm having a crisis of faith around writing and literature in general. But my craving of radical embodiment of this need for anchoring and building within a community gladly compensates that. Only the tools have to change, maybe.
+So yeah, I'm having a crisis of faith around writing and literature in general. But my craving of radical embodiment of this need for anchoring and building within a community gladly compensates that. Only the tools have to change, maybe. It wouldn't be the first time [I argue for that change of tools...](https://www.ravirer.com/2021/01/08/magic-social-change/)
 
 
+----
+Related content :  
+- [herbalism and decolonial gardening ressources](https://www.ravirer.com/2021/09/19/herbalism-ressources/), digital garden entry from sept 2021
+- [research is ceremony](https://www.ravirer.com/2020/11/09/research-is-ceremony/), digital garden entry from nov 2020 about indigenous methodologies
