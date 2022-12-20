@@ -28,7 +28,7 @@ _Of course, he wouldn't be the magician ''hero'' I want to see in the world._
  
  Although I would adore to be able to spy on fossil fuels psychopaths, and that I do believe remote viewing is possible, please, someone, save me from myself if I ever go on a TV set pretending I'm James Bond or somethig to get attention from a potentially very sacred craft. I will not elaborate any further, I think it speaks for itself of how white men can think of magic. A mere other skill, potential passive income, name it. 
  
- So all of that to say that I felt called to go back to my unfinished work around witchcraft as political strategy _for the left_. **A decolonial chaos magic by and for the people.**
+ So all of that to say that I felt called to go back to my unfinished work around witchcraft as political strategy for the left. *A decolonial chaos magic by and for the people.*
  
  It's been a while I'm mad at this sanatized paradigm of _scientific thoughts and nothing else_. I was mad on the basis that the ruler who shapped history _forced an idea upon us_. But now I am even more mad because, it's not simply that they push an idea to fit in an already full suitcase and then, sat on it to make it close, and zipped it forcefully. No, rather,they took out all our belonging in that suitcase without asking if we cared about them and burned it, filling the now empty suitcase with only what they care about, only what would benefit them, not caring a _minute_ about our needs.
  
@@ -38,9 +38,9 @@ _Of course, he wouldn't be the magician ''hero'' I want to see in the world._
  
  Today, I've heard another phrasing of that destruction that really triggered that ancient sacred anger. In [a video by Advaya](https://www.instagram.com/p/CmY7MJ3Bbzr/), Dr. Vandana Shiva geniously synthetized the evolution of thought since the colonization by Europeans. She went back to Bacon and said that, by enforcing a mechanic worldview, with the help of State and the Church, they rubbed up us of so much. Killing the animistic nature of what surrounds us was the beginning of the end, or in Shiva's, it was actually the begining of a _genocidal epistemology_. Everytime my vocabulary to express sacred anger expands, I shout.
  
- So yes, to go back at Greer. He might be an hyper archiduide or whatever. Like yes he might truly loves nature and enpower people to connect on a deeper level with nature. But I refuse to let people still anchored in the paradigm _that killed everything_ to benefit from witcsshcraft, witchcraft they systematically tried to take away from us.
+ So yes, to go back at Greer. He might be an hyper archiduide or whatever. Like yes he might truly loves nature and enpower people to connect on a deeper level with nature. But I refuse to let people still anchored in the paradigm _that killed everything_ to benefit from witchcraft, witchcraft they systematically tried to take away from us.
  
-**If we need a magical class war, I'd be happy to help lead the way.**
+*If we need a magical class war, I'd be happy to help lead the way.*
 
 
 ----
