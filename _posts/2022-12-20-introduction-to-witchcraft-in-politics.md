@@ -22,7 +22,7 @@ _Of course, he wouldn't be the magician ''hero'' I want to see in the world._
  
  Parts of me really believe though that humans aren't that powerful and we mostly rely on the magic of the nature around us. I also strongly believe that it is better, in the long run, to try to work with those magical forces of nature, rather than trying to tame them in order to harness them. 
  
- When I was in my Youtube rabbit hole, learning about Greer and Atlantis theories, I stumbled about a video named [_Does Remote Viewing Work | How To Be a Psychic Psy_](https://youtu.be/UEwzewLqdZ4). The video was around 6 min and there was this old guy invited to a TV show to prove that the was able to remotely see where someone was and he was there to prove it. So they set up a woman who would wo go anywhere she wanted in London and the old man would write "thousand of pages" to get clue of what she saw to finaly disclose her possible location.
+ When I was in my Youtube rabbit hole, learning about Greer and Atlantis theories, I stumbled about a video named [_Does Remote Viewing Work How To Be a Psychic Psy_](https://youtu.be/UEwzewLqdZ4). The video was around 6 min and there was this old guy invited to a TV show to prove that the was able to remotely see where someone was and he was there to prove it. So they set up a woman who would wo go anywhere she wanted in London and the old man would write "thousand of pages" to get clue of what she saw to finaly disclose her possible location.
  
  First, it wasn't impressing nor convincing. Second, _psychic spy_, really?
  
