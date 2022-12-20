@@ -30,7 +30,7 @@ _Of course, he wouldn't be the magician ''hero'' I want to see in the world._
  
  So all of that to say that I felt called to go back to my unfinished work around witchcraft as political strategy for the left. *A decolonial chaos magic by and for the people.*
  
- It's been a while I'm mad at this sanatized paradigm of _scientific thoughts and nothing else_. I was mad on the basis that the ruler who shapped history _forced an idea upon us_. But now I am even more mad because, it's not simply that they push an idea to fit in an already full suitcase and then, sat on it to make it close, and zipped it forcefully. No, rather,they took out all our belonging in that suitcase without asking if we cared about them and burned it, filling the now empty suitcase with only what they care about, only what would benefit them, not caring a _minute_ about our needs.
+ It's been a while I'm mad at this sanatized paradigm of _scientific thoughts and nothing else_. I was mad on the basis that the ruler who shapped history _forced an idea upon us_. But now I am even more mad because, it's not simply that they push an idea to fit in an already full suitcase and then, sat on it to make it close, and zipped it forcefully. No, rather,they took out all our belonging in that suitcase without asking if we cared about them and burned it, filling the now empty suitcase with only what they care about, only what would benefit them, not caring a minute about our needs.
  
  What I mean by that is that they had to _violently_ destroy in order to create their worldview. A bit like AI art today is destroying in bits of data meaninfulg art to render new meaningless art in the hands of capitalist. 
  
