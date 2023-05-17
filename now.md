@@ -3,7 +3,7 @@ layout: page
 title: now
 ---
 
-I am studying at the Université du Québec à Montréal.
+I am studying Creative writing at the Université du Québec à Montréal.
 
 I live in Tiohti:áke (Mtl), in the wonderful neighborhood of Hochelaga.   
   
