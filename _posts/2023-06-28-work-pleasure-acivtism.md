@@ -20,4 +20,9 @@ In my activist circles, we already started this reflexions a few years ago about
 
 Because the thing is, there will be just more and more work to do in the following year. In the realm of activism but also in general with the upcoming collapse of everything. How can we create an anticapitalist culture of (fullfiling) work that can not be recuperated by the current ideology? How can work nurture our growth instead of economical growth? 
 
-  
+
+
+----
+Related content :  
+- [how to get your shit together in this capitalist hellscape](http://ravirer.com/collections/survival-guide-the-happy-anticapitalist.pdf/), freebie made for my The Happy Anticapitalist project
+- [in the mouth of the lien](https://www.ravirer.com/2021/09/10/in-the-mouth-of-the-lion/), digital garden entry from sept 2021
