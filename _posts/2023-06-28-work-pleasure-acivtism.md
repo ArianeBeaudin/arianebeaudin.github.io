@@ -25,4 +25,4 @@ Because the thing is, there will be just more and more work to do in the followi
 ----
 Related content :  
 - [how to get your shit together in this capitalist hellscape](http://ravirer.com/collections/survival-guide-the-happy-anticapitalist.pdf/), freebie made for my The Happy Anticapitalist project
-- [in the mouth of the lien](https://www.ravirer.com/2021/09/10/in-the-mouth-of-the-lion/), digital garden entry from sept 2021
+- [in the mouth of the lion](https://www.ravirer.com/2021/09/10/in-the-mouth-of-the-lion/), digital garden entry from sept 2021
