@@ -25,3 +25,5 @@ Unrelated to this reading, but belonging in the same garden patch:
 
 - The book *The Tachekry T. Lambshead Cabinet of Curiosities* edited by Ann and Jeff Vandermeer, encyclopedic fabulation to celebrate the weird. Makes me want to linger for a longer time in the realm of ''Fictional non-fiction''
 - The podcast [*Anomalie*](https://open.spotify.com/show/0c9zbrjUMNnhMI15fANyyp?si=b4d1cb3022af471f), which presents itself like some kind of DnD campaign but for mindfulness. Basically, it's a serie of guided meditations taking place in the world of Anomalie. I love it because it feels like how doing magick should feel, truly. I can't help but be transported by the experience everytime. But here I really wonder if we are in a scenario of ''magick hidden in plain sight through art'' or ''art creating illusions'' because I have no information about the creators of the project... I feel like it's more likely to be the second option, but I'll be appreciative of it all in the meantime and I'll ponder about the potential of this type of guided meditation for magickal use.
+
+And that's it for my chaos gardening today! 
