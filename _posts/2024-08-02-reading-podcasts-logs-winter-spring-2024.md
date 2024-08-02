@@ -5,9 +5,9 @@ description: (almost) all the quotes and interesting ideas I gathered in podcast
 ---
 
 Here's an attempt at putting together all the quotations I amassed this winder and spring from a variety of podcasts and book.Hope I'll keep doing that. There's some jewels in there.   
-    
-    January  
-    
+
+## January
+
 For The Wild  episodes : 
  
  * "Myth is a wild way of telling the truth." -Martin Shaw
@@ -46,12 +46,13 @@ Benjamín Labatut arc - Louisiana Channel :
 * "A deep search for truth will lead you to uncertainty. It's like uncertainty is the highest form of wisdom that we can inspire to."
 
 * "Writings should give you access to the world, but it should also darken it for you so it becomes mysterious again.
-
 * The fact that a citrus tree dies from "overabundance" : on its last year it grows so much fruits its branches break. Such a mesmerizing spectacle to imagine (happening in his book When We Cease to Understand the World)
+
+
 ---
 
-	February
-	
+## February
+
 Podcasts :   
   
   * For the intuitives, pt. 2 (The Emerald)
@@ -73,25 +74,23 @@ Reading :
 	- Lepore identifies a “radical pessimism” in contemporary dystopian fiction: “Dystopia used to be a fiction of resistance; it’s become a fiction of submission, the fiction of an untrusting, lonely, and sullen twenty-first century… It cannot imagine a better future, and it doesn’t ask anyone to bother to make one.”"
 	- "Going back slightly further, we might similarly reference Susan Sontag’s 1965 essay The Imagination of Disaster and its critique that Cold War-related science fiction fantasies help to normalize that which we should never become accustomed to, namely the potential destruction of humanity. Or Dutch historian and sociologist Fred Polak’s argument in his 1973 book The Image of the Future, that our images of the future are nihilistic and full of despair: “[W]e may well ask ourselves if the decline in utopian thinking is not also a decline in social progress itself.”"
 
-
-	
-			March
-			
+## March
+     	
 
 Podcasts :
 
 * "Works of art are machines for destroying ideology." - Weird Studies, on The Naked Lunch
 * "The idea of the nation state is a spell." - The Death Panel, on Collapse
 	- Which made me at the time to ever again want to engage with the state, but then today in august, reading about state programs for work, I feel so annoyed that this machine is not used efficiently and I want to means of the machine
-	
-			April
+ 
+ 
+## April
 
 Podcasts :
 
 * "Magick is the art of experiencing truth." -Allan Chapman, quoted in Occult Experiments in the Home
 
-		May
-		
+## May
 
 Podcasts :
 
