@@ -13,5 +13,5 @@ I write a lot of poetry, but I rarely organize my poems into something coherent.
 
 And here's the propaganda, mostly zines to help you get radicalized and thriving:  
 
-- <a href="Survival-Guide-The-Happy-Anticapitalist.pdf" target = "_blank"> how to get your shit together on this capitalist hellscape </a> (2021, 18p.) -> about WORK (survival guide)
+- <a href="Survival-Guide-The-Happy-Anticapitalist.pdf" target = "_blank"> how to get your shit together in this capitalist hellscape </a> (2021, 18p.) -> about WORK (survival guide)
 - <a href="Pour-une-sorcellerie-politique-anticapitaliste.pdf" target = "_blank"> POUR UNE SORCELLERIE POLITIQUE ANTICAPITALISTE  </a> (2023, 8p.) -> about WITCHCRAFT & POLITICS

@@ -4,7 +4,7 @@ title: notes & quotes from winter-spring 2024
 description: (almost) all the quotes and interesting ideas I gathered in podcasts and books since january to may 2024 
 ---
 
-Here's an attempt at putting together all the quotations I amassed this winder and spring from a variety of podcasts and book.Hope I'll keep doing that. There's some jewels in there.   
+Here's an attempt at putting together all the quotations I amassed this winter and spring from a variety of podcasts and book. Hope I'll keep doing that. There's some jewels in there.   
 
 ## January
 
