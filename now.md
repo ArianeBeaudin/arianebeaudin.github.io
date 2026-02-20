@@ -3,11 +3,11 @@ layout: page
 title: now
 ---
 
-I live in Tiohti:áke/Montreal, in the wonderful neighborhood of Hochelaga, learning everyday about the birds who are flying around me.   
+I live in Tiohti:áke/Montreal, and I dream of being able to live in an orchard in the countryside at the same time.   
   
-I work for the environmental coalition [Front commun pour la transition énergétique](https://www.pourlatransitionenergetique.org/) where I  support knowledge management and learning processes of the [Collectivités ZéN](https://www.pourlatransitionenergetique.org/le-projet-collectivite-zen/) team. 
+My main project is my non-profit, [Fleurs d'attache](www.fleursdattache.ca), which does many things, but most excitingly, try to re-enchant the world.  🍃
 
-I also dedicated a lot of my time to my non-profit, [Fleurs d'attache](https://www.instagram.com/fleursdattache/), which aims at nurturing radical curiosity and reconnecting ecoanxious young adults to the nature in Tiohti:áke, in order to help us become better ecocitizens. 🍃
+I'm also trying to go back to my roots, a.k.a reading and writing weird stuff, plus being every day more esoteric and silly. 
 
 
 
